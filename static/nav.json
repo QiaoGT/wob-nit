@@ -83,6 +83,11 @@
 		"desc": "免费AI聊天平台，提供交流和信息共享",
 		"logo": "static/icons/chatgptgx.png"
 	}, {
+		"name": "BusinessAI",
+		"href": "https://aichat.kqbusinessai.com/web/#/",
+		"desc": "AI商务聊天：提供商务咨询和AI聊天服务的平台",
+		"logo": "static/icons/BusinessAI.png"
+	}, {
 		"name": "CodeGPT",
 		"href": "https://app.codegpt.co/en",
 		"desc": "提供编程相关的AI辅助工具和资源",
