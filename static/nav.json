@@ -64,6 +64,31 @@
 		"logo": "static/icons/gamer520.png"
 	}]
 }, {
+	"_id": "blog",
+	"classify": "AI工具",
+	"icon": "ti-wand",
+	"sites": [{
+		"name": "吐司",
+		"href": "https://tusiart.com",
+		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
+		"logo": "static/icons/tus.png"
+	}, {
+		"name": "哩布哩布AI",
+		"href": "https://www.liblib.art/",
+		"desc": "一个领先的AI创作平台，提供多种AI工具和创作服务",
+		"logo": "static/icons/liblib.png"
+	}， {
+		"name": "炼丹家AI",
+		"href": "https://www.liandanjia.com/app/home",
+		"desc": "提供强大AI对话和AI绘画创作的平台，用户可在线快速体验免费额度",
+		"logo": "static/icons/liandanjia.png"
+	}， {
+		"name": "触手AI",
+		"href": "https://www.acgnai.art/create/minimalism",
+		"desc": "一个AI绘画创作平台，专注于极简主义风格的艺术作品生成",
+		"logo": "static/icons/weiyun.com.ico"
+	}]
+}, {
 	"_id": "yunpan",
 	"classify": "云盘储存",
 	"icon": "ti-cloud",
