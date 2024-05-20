@@ -18,6 +18,11 @@
 		"desc": "自由、开放的网络百科全书，允许用户创建和编辑条目，提供多领域的信息和知识",
 		"logo": "static/icons/wikipedia.png"
 	}, {
+		"name": "Z-Library",
+		"href": "https://zh.z-library.se/",
+		"desc": "一个提供免费电子书和学术论文下载的网站",
+		"logo": "static/icons/z-library.png"
+	}, {
 		"name": "Github",
 		"href": "https://github.com/",
 		"desc": "一个面向开发者的代码托管平台",
@@ -39,11 +44,6 @@
 		"logo": "static/icons/ncat2.png"
 	}, {
 		"name": "Wallhaven",
-		"href": "https://wallhaven.cc/",
-		"desc": "一个提供高质量壁纸的共享平台",
-		"logo": "static/icons/wallhaven.png"
-	}, {
-		"name": "qqqqqWallhaven",
 		"href": "https://wallhaven.cc/",
 		"desc": "一个提供高质量壁纸的共享平台",
 		"logo": "static/icons/wallhaven.png"
