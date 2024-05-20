@@ -98,6 +98,11 @@
 		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
 		"logo": "static/icons/yige.png"
 	}, {
+		"name": "AICNN",
+		"href": "http://www.aicnn.cn/",
+		"desc": "领先的AI技术平台，集AI绘画、插件、语音生成与GPTS于一体",
+		"logo": "static/icons/aicnn.png"
+	}, {
 		"name": "吐司",
 		"href": "https://tusiart.com",
 		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
@@ -123,6 +128,36 @@
 		"desc": "一个提供AI绘画服务的网站以及绘画内容展示",
 		"logo": "static/icons/echoai.webp"
 	}, {
+		"name": "AI灵感PPT",
+		"href": "https://6an6.eaglegpt1.com/",
+		"desc": "用AI添彩，一键生成PPT",
+		"logo": "static/icons/6an6.png"
+	}, {
+		"name": "VIGGLE",
+		"href": "https://viggle.ai/"，
+		"desc": "一个内容生成和提供人工智能驱动的解决方案的平台。",
+		"logo": "static/icons/viggle.png"
+	}, {
+		"name": "HeyGen - AI",
+		"href": "https://app.heygen.com/",
+		"desc": "提供AI虚拟数字人生成，艺术和创意内容的在线平台",
+		"logo": "static/icons/HeyGen.png"
+	}, {
+		"name": "D-ID",
+		"href": "https://studio.d-id.com/",
+		"desc": "提供AI虚拟数字人生成，艺术和创意内容的在线平台",
+		"logo": "static/icons/D-ID.png"
+	}, {
+		"name": "Suno",
+		"href": "https://suno.com/",
+		"desc": "AI音乐创作平台，轻松实现个性化音乐创作与分享",
+		"logo": "static/icons/Suno.png"
+	}, {
+		"name": "GeoSpy Pro",
+		"href": "https://pro.geospy.ai/",
+		"desc": "将像素转化为智能，提供精准的地理定位与分析服务",
+		"logo": "static/icons/geospy.png"
+	}, {
 		"name": "RawChat公益站点",
 		"href": "https://sharedchat.cn/",
 		"desc": "一个提供共享信息和讨论的在线交流平台",
@@ -132,6 +167,11 @@
 		"href": "https://nav.swt-ai.com/",
 		"desc": "一个提供AI导航服务的网站",
 		"logo": "static/icons/SWT-AI.jpg"
+	}, {
+		"name": "云典AI智库",
+		"href": "https://cosoh.com/",
+		"desc": "AI知识平台，涵盖多领域AI工具与教程",
+		"logo": "static/icons/cosoh.png"
 	}]
 }, {
 	"_id": "yunpan",
