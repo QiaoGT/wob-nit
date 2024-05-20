@@ -417,23 +417,48 @@
 		"href": "https://unsplash.con/",
 		"desc": "高清图片站",
 		"logo": "static/icons/unsplash.com.ico"
-	}， {
+	}, {
 		"name": "pexels",
 		"href": "https://www.pexels.com/zh-cn/",
 		"desc": "可商用图片站-支持中文",
 		"logo": "static/icons/pexels.com.ico"
 	}]
-}，{
-	"_id": "blog",
-	"classify": "优秀的人",
-	"icon": "ti-medall-alt",
+}, {
+	"_id": "quwei",
+	"classify": "哈哈哈",
+	"icon": "ti-package",
 	"sites": [{
-		"name": "Rat's Blog ",
-		"href": "https://www.moerats.com/",
-		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
-		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
+		"name": "能不能好好说话",
+		"href": "https://lab.magiconch.com/nbnhhsh/",
+		"desc": "分分钟混入00后圈子，rnb（really 牛B）",
+		"logo": "static/icons/magiconch.com.ico"
+	}, {
+		"name": "煎蛋",
+		"href": "http://jandan.net/",
+		"desc": "世界上没有新鲜事，除了表情包",
+		"logo": "static/icons/jandan.net.ico"
+	},{
+		"name": "soogif搜索",
+		"href": "http://soogif.com/",
+		"desc": "Gif动图中文搜索平台",
+		"logo": "static/icons/soogif.com.ico"
+	}, {
+		"name": "小鸡词典",
+		"href": "https://jikipedia.com/",
+		"desc": "全球在线动态GIF图片搜索引擎",
+		"logo": "static/icons/jikipedia.com.png"
+	}, {
+		"name": "肌肉百科",
+		"href": "https://musclewiki.org/",
+		"desc": "选中哪块肌肉就展示对应锻炼方法",
+		"logo": "static/icons/musclewiki.org.ico"
+	}, {
+		"name": "imgur",
+		"href": "http://imgur.com/",
+		"desc": "全球免费的图片分享和图床网站",
+		"logo": "static/icons/imgur.com.png"
 	}]
-}，{
+}, {
 	"_id": "blog",
 	"classify": "优秀博客",
 	"icon": "ti-medall-alt",
