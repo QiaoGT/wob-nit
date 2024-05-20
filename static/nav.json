@@ -433,7 +433,7 @@
 		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
 		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
 	}]
-}], {
+}， {
 	"_id": "blog",
 	"classify": "优秀博客",
 	"icon": "ti-medall-alt",
