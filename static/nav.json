@@ -13,6 +13,16 @@
 		"desc": "全球最大的视频网站，提供海量视频内容",
 		"logo": "static/icons/youtube.png"
 	}, {
+		"name": "维基百科",
+		"href": "https://zh.wikipedia.org/",
+		"desc": "自由、开放的网络百科全书，允许用户创建和编辑条目，提供多领域的信息和知识",
+		"logo": "static/icons/wikipedia.png"
+	}, {
+		"name": "Github",
+		"href": "https://github.com/",
+		"desc": "一个面向开发者的代码托管平台",
+		"logo": "static/icons/github.png"
+	}, {
 		"name": "ChatGPT",
 		"href": "https://chatgpt.com/",
 		"desc": "OpenAI开发的聊天机器人，能进行自然语言处理和对话交流",
@@ -27,21 +37,21 @@
 		"href": "https://www.ncat2.com:51111/",
 		"desc": "一个提供最新Netflix新剧、韩国电影、综艺、动漫等视频资源的在线观看平台",
 		"logo": "static/icons/ncat2.png"
-	}, {
-		"name": "52破解",
-		"href": "https://www.52pojie.cn/",
-		"desc": "软件安全与病毒分析,逆向、破解、技术",
-		"logo": "static/icons/52pojie.cn.ico"
-	}, {
-		"name": "大眼仔旭",
-		"href": "http://www.dayanzai.me/",
-		"desc": "绿软、汉化软件分享",
-		"logo": "static/icons/dayanzai.me.ico"
-	}, {
+	}， {
+		"name": "Wallhaven",
+		"href": "https://wallhaven.cc/",
+		"desc": "一个提供高质量壁纸的共享平台",
+		"logo": "static/icons/wallhaven.png"
+	}， {
 		"name": "殁漂遥",
 		"href": "https://www.mpyit.com/",
 		"desc": "分类齐全，不定时修改下载地址获取方式",
 		"logo": "static/icons/mpyit.com.ico"
+	}, {
+		"name": "胡萝卜周",
+		"href": "http://www.carrotchou.blog/",
+		"desc": "又一个软件分享'领跑者'",
+		"logo": "static/icons/appcgn.com.ico"
 	}, {
 		"name": "胡萝卜周",
 		"href": "http://www.carrotchou.blog/",
