@@ -15,7 +15,7 @@
 	}, {
 		"name": "维基百科",
 		"href": "https://zh.wikipedia.org/",
-		"desc": "自由、开放的网络百科全书，允许用户创建和编辑条目，提供多领域的信息和知识",
+		"desc": "自由、开放的网络百科全书，为用户提供多领域的信息和知识",
 		"logo": "static/icons/wikipedia.png"
 	}, {
 		"name": "Z-Library",
@@ -40,13 +40,28 @@
 	}, {
 		"name": "网飞猫",
 		"href": "https://www.ncat2.com:51111/",
-		"desc": "提供最新Netflix新剧、韩国电影、综艺、动漫等视频资源的在线观看平台",
+		"desc": "最新Netflix新剧、电影、综艺、动漫等视频资源的在线观看平台",
 		"logo": "static/icons/ncat2.png"
+	}, {
+		"name": "MyFreeMP3",
+		"href": "https://tools.liumingye.cn/music/#/",
+		"desc": "一个免费的音乐搜索和下载网站",
+		"logo": "static/icons/MyFreeMP3.png"
 	}, {
 		"name": "Wallhaven",
 		"href": "https://wallhaven.cc/",
 		"desc": "一个提供高质量壁纸的共享平台",
 		"logo": "static/icons/wallhaven.png"
+	}, {
+		"name": "UC漫画",
+		"href": "https://www.ucmanhua.com/",
+		"desc": "提供各类漫画在线阅读的平台，包含国产、日本、韩国及欧美漫画",
+		"logo": "static/icons/ucmanhua.png"
+	}, {
+		"name": "Switch520",
+		"href": "https://www.gamer520.com/",
+		"desc": "一个游戏爱好者社区网站，提供游戏新闻、评测和攻略",
+		"logo": "static/icons/gamer520"
 	}]
 }, {
 	"_id": "yunpan",
