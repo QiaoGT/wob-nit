@@ -77,12 +77,12 @@
 		"href": "https://www.liblib.art/",
 		"desc": "一个领先的AI创作平台，提供多种AI工具和创作服务",
 		"logo": "static/icons/liblib.png"
-	}， {
+	}, {
 		"name": "炼丹家AI",
 		"href": "https://www.liandanjia.com/app/home",
 		"desc": "提供强大AI对话和AI绘画创作的平台，用户可在线快速体验免费额度",
 		"logo": "static/icons/liandanjia.png"
-	}， {
+	}, {
 		"name": "触手AI",
 		"href": "https://www.acgnai.art/create/minimalism",
 		"desc": "一个AI绘画创作平台，专注于极简主义风格的艺术作品生成",
