@@ -68,6 +68,31 @@
 	"classify": "AI工具",
 	"icon": "ti-wand",
 	"sites": [{
+		"name": "扣子",
+		"href": "https://www.coze.cn/",
+		"desc": "一个提供信息和资源的平台",
+		"logo": "static/icons/coze.png"
+	}, {
+		"name": "文心一言",
+		"href": "https://yiyan.baidu.com/"，
+		"desc": "百度推出的AI对话服务，提供问答和多轮对话能力",
+		"logo": "static/icons/yiyan.png"
+	}, {
+		"name": "ChatGPT镜像",
+		"href": "https://chat.freegpts.org/",
+		"desc": "免费AI聊天平台，提供交流和信息共享",
+		"logo": "static/icons/chatgptgx.png"
+	}, {
+		"name": "CodeGPT",
+		"href": "https://app.codegpt.co/en",
+		"desc": "提供编程相关的AI辅助工具和资源",
+		"logo": "static/icons/yige.png"
+	}, {
+		"name": "文心一格 ",
+		"href": "https://yige.baidu.com/",
+		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
+		"logo": "static/icons/yige.png"
+	}, {
 		"name": "吐司",
 		"href": "https://tusiart.com",
 		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
@@ -86,7 +111,22 @@
 		"name": "触手AI",
 		"href": "https://www.acgnai.art/create/minimalism",
 		"desc": "一个AI绘画创作平台，专注于极简主义风格的艺术作品生成",
-		"logo": "static/icons/weiyun.com.ico"
+		"logo": "static/icons/acgnai.png"
+	}, {
+		"name": "echo ai",
+		"href": "https://echoai.cc/draw",
+		"desc": "一个提供AI绘画服务的网站以及绘画内容展示",
+		"logo": "static/icons/echoai.webp"
+	}, {
+		"name": "RawChat公益站点",
+		"href": "https://sharedchat.cn/",
+		"desc": "一个提供共享信息和讨论的在线交流平台",
+		"logo": "static/icons/sharedchat.jpg"
+	}, {
+		"name": "SWT-AI导航",
+		"href": "https://nav.swt-ai.com/",
+		"desc": "一个提供AI导航服务的网站",
+		"logo": "static/icons/SWT-AI.jpg"
 	}]
 }, {
 	"_id": "yunpan",
