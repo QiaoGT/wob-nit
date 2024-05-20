@@ -91,7 +91,8 @@
 		"name": "CodeGPT",
 		"href": "https://app.codegpt.co/en",
 		"desc": "提供编程相关的AI辅助工具和资源",
-		"logo": "static/icons/yige.png"
+		"logo": "static/icons/CodeGPT.webp
+"
 	}, {
 		"name": "文心一格 ",
 		"href": "https://yige.baidu.com/",
