@@ -238,6 +238,11 @@
 		"desc": "强大开源电子书阅读器，支持多格式跨平台阅读",
 		"logo": "static/icons/koodoreader.png"
 	},  {
+		"name": "Testing Tools",
+		"href": "https://www.iloveimg.com/zh-cn",
+		"desc": "软件开发与测试工具，专业教程指导",
+		"logo": "static/icons/testingtools.ico"
+	},  {
 		"name": "iLoveIMG",
 		"href": "https://www.iloveimg.com/zh-cn",
 		"desc": "强大易用的在线图像编辑工具，满足各种编辑需求",
@@ -253,7 +258,27 @@
 		"desc": "一站式数据解决方案，产品里免费工具蛮好用",
 		"logo": "static/icons/apeaksoft.ico"
 	},  {
-		"name": "AI 魔术橡皮擦,",
+		"name": "Convertio",
+		"href": "https://convertio.co/zh/",
+		"desc": "高效文件转换器，支持多种格式转换",
+		"logo": "static/icons/Convertio.png"
+	},  {
+		"name": "myCompiler",
+		"href": "https://www.mycompiler.io/",
+		"desc": "在线集成开发环境，支持多种编程语言，编程学习利器",
+		"logo": "static/icons/mycompiler.png"
+	},  {
+		"name": "GitHub-Visual Studio Code",
+		"href": "https://github.dev/github/dev",
+		"desc": "Visual Studio Code在线使用",
+		"logo": "static/icons/VisualStudioCode.png"
+	},  {
+		"name": "数学工具箱",
+		"href": "https://zh.numberempire.com/",
+		"desc": "强大的数学工具箱，涵盖各类计算与工具，学习工作必备",
+		"logo": "static/icons/numberempire.jpeg"
+	},  {
+		"name": "AI 魔术橡皮擦",
 		"href": "https://jpgrm.com/",
 		"desc": "智能擦除图片多余内容，填补背景，去水印，高效便捷",
 		"logo": "static/icons/jpgrm.svg"
@@ -262,6 +287,11 @@
 		"href": "http://unlock.music.hi.cn/",
 		"desc": "解锁各大平台音乐，畅享无损音质下载体验",
 		"logo": "static/icons/unlockmusic.png"
+	},  {
+		"name": "BibiGPT-AI音视频内容一键总结",
+		"href": "https://b.jimmylv.cn/",
+		"desc": "一键总结B站、YouTube等，免费试用，便捷微信助理",
+		"logo": "static/icons/jimmylv.png"
 	},  {
 		"name": "免费在线视频下载器",
 		"href": "https://youtube4kdownloader.com/zh108/",
@@ -283,11 +313,32 @@
 		"desc": "丰富的扩展和应用资源，一键安装，方便快捷",
 		"logo": "static/icons/crxsoso.png"
 	},  {
-		"name": "Photopea ",
+		"name": "剪映视频编辑器",
+		"href": "https://www.capcut.cn/editor",
+		"desc": "专业视频编辑器，轻松剪辑、美化视频，打造创意短片",
+		"logo": "static/icons/capcut.ico"
+	},  {
+		"name": "网易见外",
+		"href": "https://jianwai.youdao.com/index/0",
+		"desc": "AI驱动的转写翻译平台，支持多场景应用",
+		"logo": "static/icons/jianwai.ico"
+	},  {
+		"name": "91微信编辑器",
+		"href": "http://bj.91join.com/",
+		"desc": "免费微信图文排版工具，助您轻松打造精美公众号内容",
+		"logo": "static/icons/91join.ico"
+	},  {
+		"name": "Photopea",
 		"href": "https://www.photopea.com/",
 		"desc": "强大在线图片编辑器，轻松编辑处理各类图片",
 		"logo": "static/icons/photopea.png"
 	},  {
+		"name": "Canva可画",
+		"href": "https://www.canva.cn/",
+		"desc": "在线设计协作平台，轻松制作专业平面作品，视觉办公利器",
+		"logo": "static/icons/canva.ico"
+	},  {
+	，  {
 		"name": "在线画画",
 		"href": "https://www.suxieban.com/#",
 		"desc": "在线画画平台，支持手绘、作图，快捷高效",
@@ -303,20 +354,45 @@
 		"desc": "提供全面的紧固件标准信息与电子商务解决方案",
 		"logo": "static/icons/164580.ico"
 	},  {
+		"name": "全球 WHOIS 查询",
+		"href": "https://www.whois365.com/cn/sitemap",
+		"desc": "快速查询域名注册信息，信息详尽，操作便捷",
+		"logo": "static/icons/whois365.ico"
+	},  {
 		"name": "IP地址和DNS地址检查",
 		"href": "https://whoer.net/zh",
 		"desc": "IP与DNS查询工具，检测匿名性与网络安全",
 		"logo": "static/icons/whoer.png"
 	},  {
+		"name": "IP纯度检测",
+		"href": "https://scamalytics.com/",
+		"desc": "IP质量得分检测平台，评估欺诈风险，保障网络安全",
+		"logo": "static/icons/scamalytics.png"
+	},  {
+		"name": "互联网地址识别查询",
+		"href": "https://lookup.icann.org/zh",
+		"desc": "权威域名注册信息数据查询网站，信息全面可靠",
+		"logo": "static/icons/icann.ico"
+	},  {
 		"name": "各国身份证生成器",
-		"href": "https://shenfendaquan.com/",
+		"href": "https://www.dizhishengcheng.com/",
 		"desc": "生成各国身份信息、地址及信用卡信息",
 		"logo": "static/icons/shenfendaquan.png"
+	},  {
+		"name": "信用卡号码生成器工具",
+		"href": "https://cardgenerator.org/",
+		"desc": "免费生成有效信用卡号，用于测试与验证",
+		"logo": "static/icons/cardgenerator.png"
 	},  {
 		"name": "Cloudflare IP Batch Test Tool",
 		"href": "http://ip.flares.cloud/",
 		"desc": "批量测试Cloudflare节点速度，优化网络体验",
 		"logo": "static/icons/ipflares.png"
+	},  {
+		"name": "全球主机监控",
+		"href": "https://stock.hostmonit.com/CloudFlareYes",
+		"desc": "实时追踪VPS、云服务器库存与优惠，助您轻松选购",
+		"logo": "static/icons/hostmonit.ico"
 	},  {
 		"name": "Speedtes",
 		"href": "http://speedtest.im/",
@@ -337,6 +413,26 @@
 		"href": "https://www.lddgo.net/",
 		"desc": "一站式在线工具平台，涵盖各类实用工具",
 		"logo": "static/icons/lddgo.png"
+	},  {
+		"name": "在线转换文档，图像，音视频文件",
+		"href": "https://www.aconvert.com/cn/",
+		"desc": "多功能在线转换，支持文档、图像、视频、音频",
+		"logo": "static/icons/aconvert.ico"
+	},  {
+		"name": "JSON在线解析及格式化验证",
+		"href": "https://www.json.cn/",
+		"desc": "在线解析、格式化、验证JSON数据，轻松处理JSON格式",
+		"logo": "static/icons/jsona.ico"
+	},  {
+		"name": "蛙蛙工具 ",
+		"href": "https://www.iamwawa.cn/",
+		"desc": "便捷在线工具站，满足你多样需求，轻松处理任务",
+		"logo": "static/icons/iamwawa.ico"
+	},  {
+		"name": "工具哇",
+		"href": "https://toolwa.com/",
+		"desc": "丰富实用工具，无需下载，一键即用",
+		"logo": "static/icons/toolwa.png"
 	},  {
 		"name": "UU在线工具",
 		"href": "https://uutool.cn/",
