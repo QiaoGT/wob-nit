@@ -123,6 +123,11 @@
 		"desc": "提供强大AI对话和AI绘画创作的平台，用户可在线快速体验免费额度",
 		"logo": "static/icons/liandanjia.png"
 	}, {
+		"name": "AIGODLIKE-开源AI冒险社区",
+		"href": "https://www.aigodlike.com/",
+		"desc": "开源AI冒险社区，集结AI魔法师与冒险者",
+		"logo": "static/icons/aigodlike.png"
+	}， {
 		"name": "Civitai ",
 		"href": "https://civitai.com/",
 		"desc": "开源生成式AI之家，探索与分享AI艺术的无限可能",
@@ -202,11 +207,6 @@
 		"href": "https://sharedchat.cn/",
 		"desc": "一个提供共享信息和讨论的在线交流平台",
 		"logo": "static/icons/sharedchat.jpg"
-	}, {
-		"name": "AIGODLIKE-开源AI冒险社区",
-		"href": "https://www.aigodlike.com/",
-		"desc": "开源AI冒险社区，集结AI魔法师与冒险者",
-		"logo": "static/icons/aigodlike.png"
 	}, {
 		"name": "SWT-AI导航",
 		"href": "https://nav.swt-ai.com/",
