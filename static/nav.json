@@ -103,6 +103,11 @@
 		"desc": "领先的AI技术平台，集AI绘画、插件、语音生成与GPTS于一体",
 		"logo": "static/icons/aicnn.png"
 	}, {
+		"name": "AI提示语",
+		"href": "https://www.tishi.top/",
+		"desc": "一站式AI集成平台，文本声音图像视频代码全覆盖",
+		"logo": "static/icons/tishi.png"
+	}, {
 		"name": "吐司",
 		"href": "https://tusiart.com",
 		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
@@ -118,25 +123,60 @@
 		"desc": "提供强大AI对话和AI绘画创作的平台，用户可在线快速体验免费额度",
 		"logo": "static/icons/liandanjia.png"
 	}, {
+		"name": "Civitai ",
+		"href": "https://civitai.com/",
+		"desc": "开源生成式AI之家，探索与分享AI艺术的无限可能",
+		"logo": "static/icons/Civitai .png"
+	}, {
+		"name": "Leonardo.Ai",
+		"href": "https://app.leonardo.ai/",
+		"desc": "AI艺术生成平台，创作无限可能，艺术触手可及",
+		"logo": "static/icons/leonardo.png"
+	}, {
 		"name": "触手AI",
 		"href": "https://www.acgnai.art/create/minimalism",
 		"desc": "一个AI绘画创作平台，专注于极简主义风格的艺术作品生成",
 		"logo": "static/icons/acgnai.png"
 	}, {
 		"name": "echo ai",
-		"href": "https://echoai.cc/draw",
+		"href": "https://app.recraft.ai/projects",
 		"desc": "一个提供AI绘画服务的网站以及绘画内容展示",
 		"logo": "static/icons/echoai.webp"
+	}, {
+		"name": "RecraftAI",
+		"href": "https://app.recraft.ai/projects",
+		"desc": "AI图像生成器，轻松生成多样艺术风格的AI图像",
+		"logo": "static/icons/recraft.png"
 	}, {
 		"name": "AI灵感PPT",
 		"href": "https://6an6.eaglegpt1.com/",
 		"desc": "用AI添彩，一键生成PPT",
 		"logo": "static/icons/6an6.png"
 	}, {
+		"name": "ChatPPT_AI",
+		"href": "https://chat-ppt.com/",
+		"desc": "一键智能生成PPT，助力高效办公与创作",
+		"logo": "static/icons/chatppt.gif"
+	}, {
+		"name": "AiPPT",
+		"href": "https://www.aippt.cn/workspace",
+		"desc": "一键生成高质量PPT，让演示更专业吸引",
+		"logo": "static/icons/aippt.png"
+	}, {
 		"name": "VIGGLE",
 		"href": "https://viggle.ai/",
-		"desc": "一个内容生成和提供人工智能驱动的解决方案的平台。",
+		"desc": "一个内容生成和提供人工智能驱动的解决方案的平台",
 		"logo": "static/icons/viggle.png"
+	}, {
+		"name": "GenmoAI",
+		"href": "https://www.genmo.ai/",
+		"desc": "AI创意平台，轻松制作视频与图像",
+		"logo": "static/icons/Genmo.png"
+	}, {
+		"name": "Haiper-AI Video Generator",
+		"href": "https://haiper.ai/explore",
+		"desc": "智能视频生成，创意无限，轻松实现视频梦想",
+		"logo": "static/icons/haiper.png"
 	}, {
 		"name": "HeyGen - AI",
 		"href": "https://app.heygen.com/",
@@ -163,6 +203,11 @@
 		"desc": "一个提供共享信息和讨论的在线交流平台",
 		"logo": "static/icons/sharedchat.jpg"
 	}, {
+		"name": "AIGODLIKE-开源AI冒险社区",
+		"href": "https://www.aigodlike.com/"，
+		"desc": "开源AI冒险社区，集结AI魔法师与冒险者",
+		"logo": "static/icons/aigodlike.png"
+	}, {
 		"name": "SWT-AI导航",
 		"href": "https://nav.swt-ai.com/",
 		"desc": "一个提供AI导航服务的网站",
@@ -172,6 +217,11 @@
 		"href": "https://cosoh.com/",
 		"desc": "AI知识平台，涵盖多领域AI工具与教程",
 		"logo": "static/icons/cosoh.png"
+	}, {
+		"name": "AIGC工具",
+		"href": "https://www.aigc.cn/",
+		"desc": "一站式生成式AI平台，全品类AI应用尽在其中",
+		"logo": "static/icons/aigc.png"
 	}]
 }, {
 	"_id": "yunpan",
