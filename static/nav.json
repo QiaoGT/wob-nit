@@ -256,7 +256,7 @@
 		"name": "Speedtes",
 		"href": "http://speedtest.im/",
 		"desc": "全球宽带测速，快速检测4G/5G网速",
-		"logo": "static/icons/speedtest.ico"
+		"logo": "static/icons/speedtest.png"
 	}]
 }, {
 	"_id": "yunpan",
