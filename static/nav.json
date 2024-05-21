@@ -93,11 +93,6 @@
 		"desc": "个性化AI，陪你度过每一天的每一刻",
 		"logo": "static/icons/characterAI.svg"
 	}, {
-		"name": "CodeGPT",
-		"href": "https://app.codegpt.co/en",
-		"desc": "提供编程相关的AI辅助工具和资源",
-		"logo": "static/icons/CodeGPT.webp"
-	}, {
 		"name": "文心一格 ",
 		"href": "https://yige.baidu.com/",
 		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
@@ -218,6 +213,11 @@
 		"desc": "一个提供AI导航服务的网站",
 		"logo": "static/icons/SWT-AI.jpg"
 	}, {
+		"name": "AI工具集",
+		"href": "https://ai-bot.cn/",
+		"desc": "700+国内外AI工具导航，一站式满足AI需求",
+		"logo": "static/icons/aibot.png"
+	}, {
 		"name": "云典AI智库",
 		"href": "https://cosoh.com/",
 		"desc": "AI知识平台，涵盖多领域AI工具与教程",
@@ -288,10 +288,25 @@
 		"desc": "强大在线图片编辑器，轻松编辑处理各类图片",
 		"logo": "static/icons/photopea.png"
 	},  {
+		"name": "在线画画",
+		"href": "https://www.suxieban.com/#",
+		"desc": "在线画画平台，支持手绘、作图，快捷高效",
+		"logo": "static/icons/suxieban.png"
+	},  {
 		"name": "EZGIF",
 		"href": "https://ezgif.com/https://ezgif.com/",
 		"desc": "免费在线GIF编辑器， 轻松制作与编辑动画GIF",
 		"logo": "static/icons/ezgif.png"
+	},  {
+		"name": "易紧通紧固件网",
+		"href": "https://www.164580.com/biaozhun/",
+		"desc": "提供全面的紧固件标准信息与电子商务解决方案",
+		"logo": "static/icons/164580.ico"
+	},  {
+		"name": "IP地址和DNS地址检查",
+		"href": "https://whoer.net/zh",
+		"desc": "IP与DNS查询工具，检测匿名性与网络安全",
+		"logo": "static/icons/whoer.png"
 	},  {
 		"name": "各国身份证生成器",
 		"href": "https://shenfendaquan.com/",
@@ -307,12 +322,17 @@
 		"href": "http://speedtest.im/",
 		"desc": "全球宽带测速，快速检测4G/5G网速",
 		"logo": "static/icons/speedtest.png"
-	},  {
-		"name": "易紧通紧固件网",
-		"href": "https://www.164580.com/biaozhun/",
-		"desc": "提供全面的紧固件标准信息与电子商务解决方案",
-		"logo": "static/icons/164580.ico"
-	},  {
+	}，  {
+		"name": "Speedtest",
+		"href": "https://www.speedtest.net/",
+		"desc": "全球宽带测速，一键检测网速",
+		"logo": "static/icons/speedtest.svg"
+	}，  {
+		"name": "Internet Speed Test",
+		"href": "https://fast.com/",
+		"desc": "简洁快速，一键测试你的网络下载速度",
+		"logo": "static/icons/fast.png"
+	}，  {
 		"name": "在线工具大全",
 		"href": "https://www.lddgo.net/",
 		"desc": "一站式在线工具平台，涵盖各类实用工具",
