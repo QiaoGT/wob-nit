@@ -322,17 +322,17 @@
 		"href": "http://speedtest.im/",
 		"desc": "全球宽带测速，快速检测4G/5G网速",
 		"logo": "static/icons/speedtest.png"
-	}，  {
+	},  {
 		"name": "Speedtest",
 		"href": "https://www.speedtest.net/",
 		"desc": "全球宽带测速，一键检测网速",
 		"logo": "static/icons/speedtest.svg"
-	}，  {
+	},  {
 		"name": "Internet Speed Test",
 		"href": "https://fast.com/",
 		"desc": "简洁快速，一键测试你的网络下载速度",
 		"logo": "static/icons/fast.png"
-	}，  {
+	},  {
 		"name": "在线工具大全",
 		"href": "https://www.lddgo.net/",
 		"desc": "一站式在线工具平台，涵盖各类实用工具",
