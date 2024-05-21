@@ -229,6 +229,36 @@
 		"logo": "static/icons/aigc.png"
 	}]
 }, {
+	"_id": "zxtool",
+	"classify": "在线工具",
+	"icon": "ti-bolt",
+	"sites": [{
+		"name": "Koodo Reader",
+		"href": "https://web.koodoreader.com/#/manager/empty",
+		"desc": "强大开源电子书阅读器，支持多格式跨平台阅读",
+		"logo": "static/icons/koodoreader.png"
+	},  {
+		"name": "EZGIF",
+		"href": "https://ezgif.com/https://ezgif.com/",
+		"desc": "免费在线GIF编辑器，轻松制作与编辑动画GIF",
+		"logo": "static/icons/ezgif.png"
+	},  {
+		"name": "Cloudflare IP Batch Test Tool",
+		"href": "http://ip.flares.cloud/"，
+		"desc": "批量测试Cloudflare节点速度，优化网络体验",
+		"logo": "static/icons/ipflares.png"
+	},  {
+		"name": "音乐解锁",
+		"href": "http://unlock.music.hi.cn/"，
+		"desc": "解锁各大平台音乐，畅享无损音质下载体验",
+		"logo": "static/icons/unlockmusic.png"
+	},  {
+		"name": "Speedtes",
+		"href": "http://speedtest.im/"，
+		"desc": "全球宽带测速，快速检测4G/5G网速",
+		"logo": "static/icons/speedtest.ico"
+	}]
+}, {
 	"_id": "yunpan",
 	"classify": "云盘储存",
 	"icon": "ti-cloud",
