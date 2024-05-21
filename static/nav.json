@@ -88,6 +88,11 @@
 		"desc": "AI商务聊天：提供商务咨询和AI聊天服务的平台",
 		"logo": "static/icons/BusinessAI.png"
 	}, {
+		"name": "characterAI",
+		"href": "https://character.ai/",
+		"desc": "个性化AI，陪你度过每一天的每一刻",
+		"logo": "static/icons/characterAI.svg"
+	}, {
 		"name": "CodeGPT",
 		"href": "https://app.codegpt.co/en",
 		"desc": "提供编程相关的AI辅助工具和资源",
