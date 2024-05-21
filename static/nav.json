@@ -98,16 +98,6 @@
 		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
 		"logo": "static/icons/yige.png"
 	}, {
-		"name": "AICNN",
-		"href": "http://www.aicnn.cn/",
-		"desc": "领先的AI技术平台，集AI绘画、插件、语音生成与GPTS于一体",
-		"logo": "static/icons/aicnn.png"
-	}, {
-		"name": "AI提示语",
-		"href": "https://www.tishi.top/",
-		"desc": "一站式AI集成平台，文本声音图像视频代码全覆盖",
-		"logo": "static/icons/tishi.png"
-	}, {
 		"name": "吐司",
 		"href": "https://tusiart.com",
 		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
@@ -127,6 +117,16 @@
 		"href": "https://www.aigodlike.com/",
 		"desc": "开源AI冒险社区，集结AI魔法师与冒险者",
 		"logo": "static/icons/aigodlike.png"
+	}, {
+		"name": "AICNN",
+		"href": "http://www.aicnn.cn/",
+		"desc": "领先的AI技术平台，集AI绘画、插件、语音生成与GPTS于一体",
+		"logo": "static/icons/aicnn.png"
+	}, {
+		"name": "AI提示语",
+		"href": "https://www.tishi.top/",
+		"desc": "一站式AI集成平台，文本声音图像视频代码全覆盖",
+		"logo": "static/icons/tishi.png"
 	}, {
 		"name": "Civitai ",
 		"href": "https://civitai.com/",
