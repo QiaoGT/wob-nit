@@ -53,10 +53,10 @@
 		"desc": "一个提供高质量壁纸的共享平台",
 		"logo": "static/icons/wallhaven.png"
 	}, {
-		"name": "UC漫画",
-		"href": "https://www.ucmanhua.com/",
-		"desc": "提供各类漫画在线阅读的平台，包含国产、日本、韩国及欧美漫画",
-		"logo": "static/icons/ucmanhua.png"
+		"name": "猪猪漫画",
+		"href": "https://www.zhuzhumh.com/rank/1-1.html",
+		"desc": "热门漫画免费看，最新最全，追漫首选",
+		"logo": "static/icons/zhuzhumh.png"
 	}, {
 		"name": "Switch520",
 		"href": "https://www.gamer520.com/",
