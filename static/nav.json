@@ -238,25 +238,95 @@
 		"desc": "强大开源电子书阅读器，支持多格式跨平台阅读",
 		"logo": "static/icons/koodoreader.png"
 	},  {
-		"name": "EZGIF",
-		"href": "https://ezgif.com/https://ezgif.com/",
-		"desc": "免费在线GIF编辑器， 轻松制作与编辑动画GIF",
-		"logo": "static/icons/ezgif.png"
+		"name": "iLoveIMG",
+		"href": "https://www.iloveimg.com/zh-cn",
+		"desc": "强大易用的在线图像编辑工具，满足各种编辑需求",
+		"logo": "static/icons/iloveimg.png"
 	},  {
-		"name": "Cloudflare IP Batch Test Tool",
-		"href": "http://ip.flares.cloud/",
-		"desc": "批量测试Cloudflare节点速度，优化网络体验",
-		"logo": "static/icons/ipflares.png"
+		"name": "iLovePDF",
+		"href": "https://www.ilovepdf.com/zh-cn",
+		"desc": "一站式PDF处理工具，轻松编辑、转换、合并PDF文件",
+		"logo": "static/icons/ilovepdf.png"
+	},  {
+		"name": " Apeaksoft",
+		"href": "https://www.apeaksoft.com/zh-CN/",
+		"desc": "一站式数据解决方案，产品里免费工具蛮好用",
+		"logo": "static/icons/apeaksoft.ico"
+	},  {
+		"name": "AI 魔术橡皮擦,",
+		"href": "https://jpgrm.com/",
+		"desc": "智能擦除图片多余内容，填补背景，去水印，高效便捷",
+		"logo": "static/icons/jpgrm.svg"
 	},  {
 		"name": "音乐解锁",
 		"href": "http://unlock.music.hi.cn/",
 		"desc": "解锁各大平台音乐，畅享无损音质下载体验",
 		"logo": "static/icons/unlockmusic.png"
 	},  {
+		"name": "免费在线视频下载器",
+		"href": "https://youtube4kdownloader.com/zh108/",
+		"desc": "支持多清晰度，轻松下载YouTube视频",
+		"logo": "static/icons/youtube4kdownloader.png"
+	},  {
+		"name": "轻松传",
+		"href": "https://easychuan.cn/",
+		"desc": "跨设备传文件、文本、屏幕、视频，高效便捷",
+		"logo": "static/icons/easychuan.png"
+	},  {
+		"name": "磁力种子互转",
+		"href": "https://bt.js.org/",
+		"desc": "轻松将磁力链接转换为种子文件",
+		"logo": "static/icons/btjs.ico"
+	},  {
+		"name": "Crx搜搜 ",
+		"href": "https://www.crxsoso.com/",
+		"desc": "丰富的扩展和应用资源，一键安装，方便快捷",
+		"logo": "static/icons/crxsoso.png"
+	},  {
+		"name": "Photopea ",
+		"href": "https://www.photopea.com/",
+		"desc": "强大在线图片编辑器，轻松编辑处理各类图片",
+		"logo": "static/icons/photopea.png"
+	},  {
+		"name": "EZGIF",
+		"href": "https://ezgif.com/https://ezgif.com/",
+		"desc": "免费在线GIF编辑器， 轻松制作与编辑动画GIF",
+		"logo": "static/icons/ezgif.png"
+	},  {
+		"name": "各国身份证生成器",
+		"href": "https://shenfendaquan.com/",
+		"desc": "生成各国身份信息、地址及信用卡信息",
+		"logo": "static/icons/shenfendaquan.png"
+	},  {
+		"name": "Cloudflare IP Batch Test Tool",
+		"href": "http://ip.flares.cloud/",
+		"desc": "批量测试Cloudflare节点速度，优化网络体验",
+		"logo": "static/icons/ipflares.png"
+	},  {
 		"name": "Speedtes",
 		"href": "http://speedtest.im/",
 		"desc": "全球宽带测速，快速检测4G/5G网速",
 		"logo": "static/icons/speedtest.png"
+	},  {
+		"name": "易紧通紧固件网",
+		"href": "https://www.164580.com/biaozhun/",
+		"desc": "提供全面的紧固件标准信息与电子商务解决方案",
+		"logo": "static/icons/164580.ico"
+	},  {
+		"name": "在线工具大全",
+		"href": "https://www.lddgo.net/",
+		"desc": "一站式在线工具平台，涵盖各类实用工具",
+		"logo": "static/icons/lddgo.png"
+	},  {
+		"name": "UU在线工具",
+		"href": "https://uutool.cn/",
+		"desc": "便捷实用的工具集合，满足日常所需",
+		"logo": "static/icons/uutool.png"
+	},  {
+		"name": "TOOLFK工具网",
+		"href": "https://www.toolfk.com/",
+		"desc": "一站式在线工具箱，满足程序员多种需求",
+		"logo": "static/icons/toolfk.ico"
 	}]
 }, {
 	"_id": "yunpan",
