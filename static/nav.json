@@ -480,7 +480,7 @@
 	"sites": [{
 		"name": "蓝奏云",
 		"href": "https://pc.woozooo.com/",
-		"desc": "100MB以下无限存储空间，下载速度大约5MB/s",
+		"desc": "100MB以下无限存储空间，下载速度尚可",
 		"logo": "static/icons/woozooo.ico"
 	},{
 		"name": "123云盘",
