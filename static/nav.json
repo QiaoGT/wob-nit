@@ -278,6 +278,21 @@
 		"desc": "Visual Studio Code在线使用",
 		"logo": "static/icons/VisualStudioCode.png"
 	},  {
+		"name": "NeuralWriter",
+		"href": "https://neuralwriter.com/zh/",
+		"desc": "免费在线释义工具，支持多语言改写与释义",
+		"logo": "static/icons/neuralwriter.png"
+	},  {
+		"name": "思绪思维导图",
+		"href": "https://wanglin2.github.io/mind-map/#/",
+		"desc": "强大Web思维导图，支持在线与客户端使用",
+		"logo": "static/icons/mindmap.png"
+	},  {
+		"name": "在线思维导图",
+		"href": "https://products.aspose.app/diagram/zh-cn/mindmap",
+		"desc": "一个便捷的免费在线思维导图工具",
+		"logo": "static/icons/mindmap2.png"
+	},  {
 		"name": "数学工具箱",
 		"href": "https://zh.numberempire.com/",
 		"desc": "强大的数学工具箱，涵盖各类计算与工具，学习工作必备",
@@ -288,10 +303,15 @@
 		"desc": "智能擦除图片多余内容，填补背景，去水印，高效便捷",
 		"logo": "static/icons/jpgrm.svg"
 	},  {
+		"name": "音乐搜索器",
+		"href": "https://music.haom.ren/",
+		"desc": "多站合一，在线试听，轻松找到心仪歌曲",
+		"logo": "static/icons/unlockmusic.png"
+	},  {
 		"name": "音乐解锁",
 		"href": "http://unlock.music.hi.cn/",
 		"desc": "解锁各大平台音乐，畅享无损音质下载体验",
-		"logo": "static/icons/unlockmusic.png"
+		"logo": "static/icons/smusiczx.png"
 	},  {
 		"name": "BibiGPT-AI音视频内容一键总结",
 		"href": "https://b.jimmylv.cn/",
@@ -322,6 +342,11 @@
 		"href": "https://www.capcut.cn/editor",
 		"desc": "专业视频编辑器，轻松剪辑、美化视频，打造创意短片",
 		"logo": "static/icons/capcut.ico"
+	},  {
+		"name": "Vmake",
+		"href": "https://vmake.ai/zh-CN/workspace",
+		"desc": "AI图像视频编辑器，电商营销物料智能创作平台",
+		"logo": "static/icons/vmakeai.png"
 	},  {
 		"name": "网易见外",
 		"href": "https://jianwai.youdao.com/index/0",
@@ -358,6 +383,11 @@
 		"desc": "提供全面的紧固件标准信息与电子商务解决方案",
 		"logo": "static/icons/164580.ico"
 	},  {
+		"name": "职级对标",
+		"href": "https://duibiao.info/",
+		"desc": "直观对比字节跳动、腾讯、阿里职级体系",
+		"logo": "static/icons/duibiao.png"
+	},  {
 		"name": "全球 WHOIS 查询",
 		"href": "https://www.whois365.com/cn/sitemap",
 		"desc": "快速查询域名注册信息，信息详尽，操作便捷",
@@ -387,6 +417,11 @@
 		"href": "https://cardgenerator.org/",
 		"desc": "免费生成有效信用卡号，用于测试与验证",
 		"logo": "static/icons/cardgenerator.png"
+	},  {
+		"name": "在线ping",
+		"href": "https://www.itdog.cn/ping/",
+		"desc": "多地多线路测试，实时检测网络延迟与服务器状态",
+		"logo": "static/icons/itdog.png"
 	},  {
 		"name": "Cloudflare IP Batch Test Tool",
 		"href": "http://ip.flares.cloud/",
