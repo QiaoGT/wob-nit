@@ -780,7 +780,7 @@
 	}]
 }, {
 	"_id": "blog",
-	"classify": "优秀博客",
+	"classify": "优秀de博客",
 	"icon": "ti-medall-alt",
 	"sites": [{
 		"name": "Rat's Blog ",
