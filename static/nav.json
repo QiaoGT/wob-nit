@@ -478,20 +478,40 @@
 	"classify": "云盘储存",
 	"icon": "ti-cloud",
 	"sites": [{
+		"name": "蓝奏云",
+		"href": "https://pc.woozooo.com/",
+		"desc": "100MB以下无限存储空间，下载速度大约5MB/s",
+		"logo": "static/icons/woozooo.ico"
+	},{
+		"name": "123云盘",
+		"href": "https://www.123pan.com/",
+		"desc": "普通用户2T存储空间，下载速度尚可",
+		"logo": "static/icons/123pan.png"
+	},{
 		"name": "天翼云盘",
 		"href": "https://cloud.189.cn/",
-		"desc": "电信出品的优秀网盘",
+		"desc": "60G存储空间，30G个人、30G家庭，下载速度尚可",
 		"logo": "static/icons/189.cn.ico"
 	},{
-		"name": "曲奇办公",
-		"href": "https://quqi.com/",
-		"desc": "主打办公群组类网盘",
-		"logo": "static/icons/quqi.com.ico"
+		"name": "阿里云盘",
+		"href": "https://www.alipan.com/",
+		"desc": "105G存储空间，下载速度尚可",
+		"logo": "static/icons/alipan.png"
 	},{
 		"name": "城通网盘",
 		"href": "https://www.ctfile.com/",
-		"desc": "页面不算太难看的网赚网盘,度盘替代品之一",
-		"logo": "static/icons/ctfile.com.png"
+		"desc": "500G存储空间，下载速度不太行",
+		"logo": "static/icons/ctwp.png"
+	},{
+		"name": "百度网盘",
+		"href": "https://pan.baidu.com/",
+		"desc": "300G存储空间，上传下载速度都不太行",
+		"logo": "static/icons/baidupan.ico"
+	},{
+		"name": "曲奇云盘",
+		"href": "https://quqi.com/",
+		"desc": "2T存储空间，上传下载速度都不太行",
+		"logo": "static/icons/quqi.png"
 	}]
 },  { 
 	"_id": "daohang",
