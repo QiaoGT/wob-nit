@@ -488,11 +488,6 @@
 		"desc": "普通用户2T存储空间，下载速度尚可",
 		"logo": "static/icons/123pan.png"
 	},{
-		"name": "天翼云盘",
-		"href": "https://cloud.189.cn/",
-		"desc": "60G存储空间，30G个人、30G家庭，下载速度尚可",
-		"logo": "static/icons/tyypan.png"
-	},{
 		"name": "迅雷云盘",
 		"href": "https://pan.xunlei.com/",
 		"desc": "1T存储空间，下载速度尚可",
@@ -503,30 +498,60 @@
 		"desc": "105G存储空间，下载速度尚可",
 		"logo": "static/icons/alipan.png"
 	},{
+		"name": "天翼云盘",
+		"href": "https://cloud.189.cn/",
+		"desc": "60G存储空间，30G个人、30G家庭，下载速度尚可",
+		"logo": "static/icons/tyypan.png"
+	},{
+		"name": "中国移动云盘",
+		"href": "https://yun.139.com/",
+		"desc": "20G存储空间，10G个人、10G家庭，下载速度尚可",
+		"logo": "static/icons/yun139.png"
+	},{
+		"name": "联通云盘",
+		"href": "https://pan.wo.cn/",
+		"desc": "10G存储空间，下载速度尚可",
+		"logo": "static/icons/ltyp.png"
+	},{
+		"name": "UC网盘",
+		"href": "https://drive.uc.cn/",
+		"desc": "10G存储空间，下载速度尚可",
+		"logo": "static/icons/ucwpan.png"
+	},{
 		"name": "夸克网盘",
 		"href": "https://pan.quark.cn/",
 		"desc": "10G存储空间，下载速度尚可",
 		"logo": "static/icons/quark.png"
+	},{
+		"name": "InfiniCLOUD云盘",
+		"href": "https://infini-cloud.net/en/",
+		"desc": "20G存储空间，下载速度尚可",
+		"logo": "static/icons/InfiniCLOUD.png"
 	},{
 		"name": "腾讯微云",
 		"href": "https://www.weiyun.com/",
 		"desc": "5G存储空间，下载速度不太行",
 		"logo": "static/icons/weiyun.png"
 	},{
+		"name": "MEGA云盘",
+		"href": "https://mega.nz/",
+		"desc": "20G存储空间，上传不太行,下载还可",
+		"logo": "static/icons/quqi.ico"
+	},{
 		"name": "城通网盘",
 		"href": "https://www.ctfile.com/",
 		"desc": "500G存储空间，下载速度不太行",
 		"logo": "static/icons/ctwp.png"
 	},{
-		"name": "百度网盘",
-		"href": "https://pan.baidu.com/",
-		"desc": "300G存储空间，上传下载速度都不太行",
-		"logo": "static/icons/baidupan.ico"
-	},{
 		"name": "曲奇云盘",
 		"href": "https://quqi.com/",
 		"desc": "2T存储空间，上传下载速度都不太行",
 		"logo": "static/icons/quqi.ico"
+	},{
+		"name": "百度网盘",
+		"href": "https://pan.baidu.com/",
+		"desc": "300G存储空间，上传下载速度都不太行",
+		"logo": "static/icons/baidupan.ico"
 	}]
 },  { 
 	"_id": "daohang",
