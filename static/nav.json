@@ -253,6 +253,11 @@
 		"desc": "一站式数据解决方案，产品里免费工具蛮好用",
 		"logo": "static/icons/apeaksoft.ico"
 	},  {
+		"name": "图片清晰度无损放大",
+		"href": "https://bigjpg.com/",
+		"desc": "AI智能无损放大图片，深度CNN技术，清晰不失真",
+		"logo": "static/icons/bigjpg.ico"
+	},  {
 		"name": "在线转换文档，图像，音视频文件",
 		"href": "https://www.aconvert.com/cn/",
 		"desc": "多功能在线转换，支持文档、图像、视频、音频",
@@ -383,10 +388,10 @@
 		"desc": "直观对比字节跳动、腾讯、阿里职级体系",
 		"logo": "static/icons/duibiao.png"
 	},  {
-		"name": "在线ping",
-		"href": "https://www.itdog.cn/ping/",
-		"desc": "多地多线路测试，实时检测网络延迟与服务器状态",
-		"logo": "static/icons/itdog.png"
+		"name": "站长工具",
+		"href": "https://tool.chinaz.com/",
+		"desc": "在线工具平台，提供丰富的网站管理与优化工具",
+		"logo": "static/icons/toolchinaz.png"
 	},  {
 		"name": "IP地址和DNS地址检查",
 		"href": "https://whoer.net/zh",
@@ -397,11 +402,6 @@
 		"href": "https://scamalytics.com/",
 		"desc": "IP质量得分检测平台，评估欺诈风险，保障网络安全",
 		"logo": "static/icons/scamalytics.png"
-	},  {
-		"name": "全球 WHOIS 查询",
-		"href": "https://www.whois365.com/cn/sitemap",
-		"desc": "快速查询域名注册信息，信息详尽，操作便捷",
-		"logo": "static/icons/whois365.ico"
 	},  {
 		"name": "互联网地址识别查询",
 		"href": "https://lookup.icann.org/zh",
