@@ -523,7 +523,12 @@
 		"desc": "10G存储空间，下载速度尚可",
 		"logo": "static/icons/quark.png"
 	},{
-		"name": "InfiniCLOUD云盘",
+		"name": "MediaFire",
+		"href": "https://app.mediafire.com/",
+		"desc": "10G存储空间，下载速度尚可",
+		"logo": "static/icons/mediafire.png"
+	},{
+		"name": "InfiniCLOUD",
 		"href": "https://infini-cloud.net/en/",
 		"desc": "20G存储空间，下载速度尚可",
 		"logo": "static/icons/InfiniCLOUD.png"
