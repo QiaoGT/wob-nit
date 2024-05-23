@@ -383,11 +383,6 @@
 		"desc": "直观对比字节跳动、腾讯、阿里职级体系",
 		"logo": "static/icons/duibiao.png"
 	},  {
-		"name": "全球 WHOIS 查询",
-		"href": "https://www.whois365.com/cn/sitemap",
-		"desc": "快速查询域名注册信息，信息详尽，操作便捷",
-		"logo": "static/icons/whois365.ico"
-	},  {
 		"name": "在线ping",
 		"href": "https://www.itdog.cn/ping/",
 		"desc": "多地多线路测试，实时检测网络延迟与服务器状态",
@@ -402,6 +397,11 @@
 		"href": "https://scamalytics.com/",
 		"desc": "IP质量得分检测平台，评估欺诈风险，保障网络安全",
 		"logo": "static/icons/scamalytics.png"
+	},  {
+		"name": "全球 WHOIS 查询",
+		"href": "https://www.whois365.com/cn/sitemap",
+		"desc": "快速查询域名注册信息，信息详尽，操作便捷",
+		"logo": "static/icons/whois365.ico"
 	},  {
 		"name": "互联网地址识别查询",
 		"href": "https://lookup.icann.org/zh",
