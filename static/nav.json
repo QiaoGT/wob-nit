@@ -511,7 +511,7 @@
 		"name": "曲奇云盘",
 		"href": "https://quqi.com/",
 		"desc": "2T存储空间，上传下载速度都不太行",
-		"logo": "static/icons/quqi.png"
+		"logo": "static/icons/quqi.ico"
 	}]
 },  { 
 	"_id": "daohang",
