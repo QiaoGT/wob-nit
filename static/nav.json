@@ -234,7 +234,7 @@
 	"icon": "ti-bolt",
 	"sites": [{
 		"name": "Koodo Reader",
-		"href": "https://web.koodoreader.com/#/manager/empty",
+		"href": "https://web.koodoreader.com",
 		"desc": "强大开源电子书阅读器，支持多格式跨平台阅读",
 		"logo": "static/icons/koodoreader.png"
 	},  {
@@ -491,12 +491,27 @@
 		"name": "天翼云盘",
 		"href": "https://cloud.189.cn/",
 		"desc": "60G存储空间，30G个人、30G家庭，下载速度尚可",
-		"logo": "static/icons/189.cn.ico"
+		"logo": "static/icons/tyypan.png"
+	},{
+		"name": "迅雷云盘",
+		"href": "https://pan.xunlei.com/",
+		"desc": "1T存储空间，下载速度尚可",
+		"logo": "static/icons/xunlei.png"
 	},{
 		"name": "阿里云盘",
 		"href": "https://www.alipan.com/",
 		"desc": "105G存储空间，下载速度尚可",
 		"logo": "static/icons/alipan.png"
+	},{
+		"name": "夸克网盘",
+		"href": "https://pan.quark.cn/",
+		"desc": "10G存储空间，下载速度尚可",
+		"logo": "static/icons/quark.png"
+	},{
+		"name": "腾讯微云",
+		"href": "https://www.weiyun.com/"，
+		"desc": "5G存储空间，下载速度不太行",
+		"logo": "static/icons/weiyun.png"
 	},{
 		"name": "城通网盘",
 		"href": "https://www.ctfile.com/",
