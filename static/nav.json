@@ -606,7 +606,7 @@
 }, {
 	"_id": "yule",
 	"classify": "休闲娱乐",
-	"icon": "ti-search",
+	"icon": "ti-game",
 	"sites": [{
 		"name": "轻之文库",
 		"href": "https://www.linovel.net/",
@@ -651,7 +651,7 @@
 }, {
 	"_id": "xuexi",
 	"classify": "学习网站",
-	"icon": "ti-package",
+	"icon": "ti-book",
 	"sites": [{
 		"name": "各国语言在线学习",
 		"href": "https://www.loecsen.com/zh",
