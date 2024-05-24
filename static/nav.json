@@ -389,9 +389,9 @@
 		"logo": "static/icons/duibiao.png"
 	},  {
 		"name": "站长工具",
-		"href": "https://到ol.chinaz.com/",
+		"href": "https://tool.chinaz.com/",
 		"desc": "在线工具平台，提供丰富的网站管理与优化工具",
-		"logo": "static/icons/到olchinaz.png"
+		"logo": "static/icons/toolchinaz.png"
 	},  {
 		"name": "IP地址和DNS地址检查",
 		"href": "https://whoer.net/zh",
