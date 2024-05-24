@@ -503,7 +503,7 @@
 		"desc": "60G存储空间，30G个人、30G家庭，下载速度尚可",
 		"logo": "static/icons/tyypan.png"
 	},{
-		"name": "中国移动云盘",
+		"name": "移动云盘",
 		"href": "https://yun.139.com/",
 		"desc": "20G存储空间，10G个人、10G家庭，下载速度尚可",
 		"logo": "static/icons/yun139.png"
