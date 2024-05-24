@@ -541,7 +541,7 @@
 		"name": "MEGA云盘",
 		"href": "https://mega.nz/",
 		"desc": "20G存储空间，上传不太行,下载还可",
-		"logo": "static/icons/quqi.ico"
+		"logo": "static/icons/mega.ico"
 	},{
 		"name": "城通网盘",
 		"href": "https://www.ctfile.com/",
