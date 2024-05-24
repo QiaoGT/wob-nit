@@ -560,53 +560,48 @@
 	}]
 },  { 
 	"_id": "daohang",
-	"classify": "分类导航",
-	"icon": "ti-bookmark-alt",
+	"classify": "邮箱",
+	"icon": "ti-email",
 	"sites": [{
-		"name": "今日热榜",
-		"href": "https://tophub.today/",
-		"desc": "主流新闻站热点当日集合",
-		"logo": "static/icons/tophub.today.png"
+		"name": "Gmail",
+		"href": "https://mail.google.com/",
+		"desc": "谷歌的安全、私密、无广告的电子邮件交流平台。",
+		"logo": "static/icons/gmainl.png"
 	},{
-		"name": "优设导航",
-		"href": "https://hao.uisdc.com/",
-		"desc": "一个优秀的设计师导航站",
-		"logo": "https://hao.uisdc.com/favicon.ico"
+		"name": "Outlook",
+		"href": "https://outlook.live.com/",
+		"desc": "微软的电子邮件，融合了通讯工具和办公应用等",
+		"logo": "static/icons/outlook.png"
 	},{
-		"name": "堕落了",
-		"href": "https://www.duoluole.com/",
-		"desc": "年轻态友好向网址导航",
-		"logo": "static/icons/duoluole.com.png"
+		"name": "QQ邮箱",
+		"href": "https://wx.mail.qq.com/",
+		"desc": "腾讯公司的邮件服务，支持多种应用集成",
+		"logo": "static/icons/mailqq.png"
 	},{
-		"name": "炫猿导航",
-		"href": "https://oo1.win/",
-		"desc": "一个炫酷的多功能导航站，收录品类丰富",
-		"logo": "static/icons/oo1.win.ico"
+		"name": "中国电信189邮箱",
+		"href": "https://webmail30.189.cn/",
+		"desc": 为用户提供稳定、安全的邮件收发功能",
+		"logo": "static/icons/webmail30189.png"
 	},{
-		"name": "kim导航",
-		"href": "https://kim.plopco.com/",
-		"desc": "不罗嗦的导航，可切换国内外版本",
-		"logo": "static/icons/plopco.com.ico"
+		"name": "中国移动139邮箱",
+		"href": "https://mail.10086.cn/",
+		"desc": "手机号即邮箱号，提供邮件收发及管理服务",
+		"logo": "static/icons/139emainl.png"
 	},{
-		"name": "龙轩导航",
-		"href": "http://ilxdh.com/",
-		"desc": "疯狂影视同属产品，支持登录添加自定义网址",
-		"logo": "static/icons/ilxdh.com.ico"
+		"name": "中国联通沃邮箱",
+		"href": "https://mail.wo.cn/",
+		"desc": "支持多平台访问，安全稳定，适用于个人及企业用户",
+		"logo": "static/icons/woemainl.png"
 	},{
-		"name": "设计导航",
-		"href": "http://hao.shejidaren.com/",
-		"desc": "偏向前端与ui的设计师导航站",
-		"logo": "static/icons/shejidaren.com.ico"
+		"name": "网易企业邮箱",
+		"href": "https://mailh.qiye.163.com/",
+		"desc": "高效、安全、稳定的特点，适用于各类企业用户",
+		"logo": "static/icons/mailhqiye163.png"
 	},{
-		"name": "考拉新媒体导航",
-		"href": "https://www.kaolamedia.com/",
-		"desc": "新媒体行业专业导航",
-		"logo": "static/icons/kaolamedia.com.ico"
-	},{
-		"name": "医学导航",
-		"href": "http://meddir.cn/",
-		"desc": "医学类网站导航",
-		"logo": "no-logo"
+		"name": "腾讯企业邮箱",
+		"href": "https://exmail.qq.com/login",
+		"desc": "支持企业邮件管理和通信",
+		"logo": "static/icons/exmailqq.png"
 	}]
 }, {
 	"_id": "wangpan",
