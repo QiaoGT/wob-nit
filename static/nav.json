@@ -358,10 +358,10 @@
 		"desc": "免费微信图文排版工具，助您轻松打造精美公众号内容",
 		"logo": "static/icons/91join.ico"
 	},  {
-		"name": "Photopea",
-		"href": "https://www.photopea.com/",
+		"name": "Pho到pea",
+		"href": "https://www.pho到pea.com/",
 		"desc": "强大在线图片编辑器，轻松编辑处理各类图片",
-		"logo": "static/icons/photopea.png"
+		"logo": "static/icons/pho到pea.png"
 	},  {
 		"name": "Canva可画",
 		"href": "https://www.canva.cn/",
@@ -389,9 +389,9 @@
 		"logo": "static/icons/duibiao.png"
 	},  {
 		"name": "站长工具",
-		"href": "https://tool.chinaz.com/",
+		"href": "https://到ol.chinaz.com/",
 		"desc": "在线工具平台，提供丰富的网站管理与优化工具",
-		"logo": "static/icons/toolchinaz.png"
+		"logo": "static/icons/到olchinaz.png"
 	},  {
 		"name": "IP地址和DNS地址检查",
 		"href": "https://whoer.net/zh",
@@ -414,9 +414,9 @@
 		"logo": "static/icons/shenfendaquan.png"
 	},  {
 		"name": "信用卡号码生成器",
-		"href": "https://cardgenerator.org/",
+		"href": "https://cardgenera到r.org/",
 		"desc": "免费生成有效信用卡号，用于测试与验证",
-		"logo": "static/icons/cardgenerator.png"
+		"logo": "static/icons/cardgenera到r.png"
 	},  {
 		"name": "Cloudflare IP Batch Test Tool",
 		"href": "http://ip.flares.cloud/",
@@ -649,39 +649,39 @@
 		"logo": "static/icons/xitongzhijia.ico"
 	}]
 }, {
-	"_id": "quwei",
-	"classify": "趣味网站",
+	"_id": "xuexi",
+	"classify": "学习网站",
 	"icon": "ti-package",
 	"sites": [{
-		"name": "能不能好好说话",
-		"href": "https://lab.magiconch.com/nbnhhsh/",
-		"desc": "分分钟混入00后圈子，rnb（really 牛B）",
-		"logo": "static/icons/magiconch.com.ico"
+		"name": "各国语言在线学习",
+		"href": "https://www.loecsen.com/zh",
+		"desc": "免费在线课程，涵盖51种语言，学习资源丰富多样",
+		"logo": "static/icons/loecsen.ico"
 	}, {
-		"name": "煎蛋",
-		"href": "http://jandan.net/",
-		"desc": "世界上没有新鲜事，除了表情包",
-		"logo": "static/icons/jandan.net.ico"
+		"name": "可汗学院",
+		"href": "https://zh.khanacademy.org/",
+		"desc": "一站式学习管理，跟踪进度，提升效率",
+		"logo": "static/icons/khanacademy.ico"
 	},{
-		"name": "soogif搜索",
-		"href": "http://soogif.com/",
-		"desc": "Gif动图中文搜索平台",
-		"logo": "static/icons/soogif.com.ico"
-	}, {
-		"name": "小鸡词典",
-		"href": "https://jikipedia.com/",
-		"desc": "全球在线动态GIF图片搜索引擎",
-		"logo": "static/icons/jikipedia.com.png"
-	}, {
-		"name": "肌肉百科",
-		"href": "https://musclewiki.org/",
-		"desc": "选中哪块肌肉就展示对应锻炼方法",
-		"logo": "static/icons/musclewiki.org.ico"
-	}, {
-		"name": "imgur",
-		"href": "http://imgur.com/",
-		"desc": "全球免费的图片分享和图床网站",
-		"logo": "static/icons/imgur.com.png"
+		"name": "TutorialsPoint在线教程",
+		"href": "https://www.tutorialspoint.com/",
+		"desc": "在线教程、课程丰富，电子书库全面，学习资料一站备齐",
+		"logo": "static/icons/testingtools.ico"
+	},{
+		"name": "Microsoft Learnpe培训",
+		"href": "https://learn.microsoft.com/zh-cn/training/",
+		"desc": "全面培训资源，助你精通微软技术，提升技能",
+		"logo": "static/icons/Learnmicrosoft.svg"
+	},{
+		"name": "菜鸟教程",
+		"href": "https://www.runoob.com/",
+		"desc": "编程技术学习平台，助力实现梦想，成就未来",
+		"logo": "static/icons/runoob.png"
+	},{
+		"name": "哔哩哔哩",
+		"href": "https://search.bilibili.com/all?keyword=%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0&from_source=webtop_search&spm_id_from=333.1073&search_source=2&page=2&o=30"，
+		"desc": "学习资源丰富，视频教程助成长，学习更轻松",
+		"logo": "static/icons/bilibili.png"
 	}]
 },{
 	"_id": "blog",
