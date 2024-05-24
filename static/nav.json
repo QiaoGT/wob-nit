@@ -560,7 +560,7 @@
 	}]
 },  { 
 	"_id": "daohang",
-	"classify": "邮箱",
+	"classify": "邮箱工具",
 	"icon": "ti-email",
 	"sites": [{
 		"name": "Gmail",
@@ -604,34 +604,39 @@
 		"logo": "static/icons/exmailqq.png"
 	}]
 }, {
-	"_id": "wangpan",
-	"classify": "资源搜索",
+	"_id": "yule",
+	"classify": "休闲娱乐",
 	"icon": "ti-search",
 	"sites": [{
-		"name": "LOOKAO",
-		"href": "https://lookao.com/",
-		"desc": "简单的 不追踪不记录搜索引擎",
-		"logo": "https://www.dashengpan.com/favicon.ico"
+		"name": "稀饭动漫",
+		"href": "https://dick.xfani.com/",
+		"desc": "高清动漫资源的网站，涵盖TV动画、剧场版、美漫等多种类型",
+		"logo": "static/icons/xifandm.png"
 	},{
-		"name": "大力盘",
-		"href": "https://www.dalipan.com/",
-		"desc": "度盘搜索，支持精准匹配或模糊匹配，有筛选功能",
-		"logo": "https://www.dalipan.com/favicon.ico"
+		"name": "轻之文库",
+		"href": "https://www.linovel.net/",
+		"desc": "轻小说阅读创作平台，汇聚佳作，发掘创意，畅享故事乐趣",
+		"logo": "static/icons/linovel.jpg"
 	},{
-		"name": "史莱姆",
-		"href": "http://www.slimego.cn",
-		"desc": "度盘搜索，更新较快，有学习资料专项",
-		"logo": "static/icons/slimego.cn.ico"
+		"name": "UC漫画",
+		"href": "https://www.ucmanhua.com/",
+		"desc": "免费在线漫画平台，涵盖国产、日本、韩国及欧美漫画",
+		"logo": "static/icons/ucmanhua.png"
 	},{
-		"name": "TheFuture",
-		"href": "https://bks.thefuture.top/",
-		"desc": "书籍搜索，提供网盘下载",
-		"logo": "https://bks.thefuture.top/bk.png"
+		"name": "Pixiv",
+		"href": "https://www.pixiv.net/",
+		"desc": "全球艺术社区，用户可发布插画、漫画和小说",
+		"logo": "static/icons/Pixiv.png"
 	},{
-		"name": "虫部落网盘搜索",
-		"href": "http://magnet.chongbuluo.com/",
-		"desc": "专注搜索[技术]的虫部落开放的聚合网盘搜索",
-		"logo": "https://search.chongbuluo.com/favicon.ico"
+		"name": "5sing音乐",
+		"href": "https://5sing.kugou.com/",
+		"desc": "原创音乐分享平台，汇聚佳作，共赏音乐之美",
+		"logo": "static/icons/5sing.png"
+	},{
+		"name": "游侠网",
+		"href": "https://down.ali213.net/pcgame/",
+		"desc": "提供各种电脑游戏的下载，包括热门大作和独立游戏",
+		"logo": "static/icons/ali213.png"
 	}]
 }, {
 	"_id": "quwei",
@@ -669,168 +674,13 @@
 		"logo": "static/icons/imgur.com.png"
 	}]
 },{
-	"_id": "wangluo",
-	"classify": "网络工具",
-	"icon": "ti-rocket",
-	"sites": [{
-		"name": "wxpusher",
-		"href": "http://wxpusher.zjiecode.com",
-		"desc": "最简单的get/post方式将消息推送给微信，可配合双卡助手使用",
-		"logo": "no-logo"
-	}, {
-		"name": "server酱",
-		"href": "https://sc.ftqq.com/3.version",
-		"desc": "一个有着GET接口的可编程消息接收器，服务器监控等推送消息到微信很棒",
-		"logo": "https://sc.ftqq.com/static/image/favlogo.png"
-	}, {
-		"name": "Sakura Frp ",
-		"href": "https://www.natfrp.com",
-		"desc": "免费的一键开启frp内网穿透客户端，支持windows和linux",
-		"logo": "https://www.natfrp.com/favicon.ico"
-	}, {
-		"name": "十分钟邮箱",
-		"href": "http://mail.bccto.me/",
-		"desc": "创建一个十分钟内可用的临时邮箱。",
-		"logo": "http://mail.bccto.me/static/favicon.ico"
-	}, {
-		"name": "码农下载平台",
-		"href": "http://www.umsdn.com/",
-		"desc": "几大主流图库vip素材下载站，使用多年依旧稳定",
-		"logo": "no-logo"
-	}, {
-		"name": "创客贴",
-		"href": "https://www.chuangkit.com/",
-		"desc": "免费在线平面设计工具",
-		"logo": "https://www.chuangkit.com/favicon.ico"
-	}, {
-		"name": "鹿班",
-		"href": "https://luban.aliyun.com/",
-		"desc": "阿里人工智能电商Banner广告图制作",
-		"logo": "http://chuangzaoshi.com/assets/images/D/luban.png"
-	}, {
-		"name": "TinyPng",
-		"href": "https://tinypng.com/",
-		"desc": "超完美PNG压缩工具",
-		"logo": "http://chuangzaoshi.com/assets/images/D/tinypng.png"
-	}, {
-		"name": "qiuziti",
-		"href": "http://www.qiuziti.com/",
-		"desc": "中文上传图片字体查找",
-		"logo": "static/icons/qiuziti.com.ico"
-	}, {
-		"name": "稿定设计",
-		"href": "https://www.gaoding.com/",
-		"desc": "在线设计工具，包含在线抠图",
-		"logo": "static/icons/gaoding.com.ico"
-	}, {
-		"name": "一个木函web版",
-		"href": "https://web.woobx.cn/",
-		"desc": "一些常用小工具",
-		"logo": "static/icons/woobx.cn.ico"
-	}, {
-		"name": "PDFcandy",
-		"href": "https://pdfcandy.com/",
-		"desc": "汇集众多常用PDF在线工具",
-		"logo": "http://chuangzaoshi.com/assets/images/D/pdfcandy.png"
-	}, {
-		"name": "草料二维码",
-		"href": "https://cli.im/",
-		"desc": "国内创建二维码在线应用",
-		"logo": "static/icons/cli.im.ico"
-	}, {
-		"name": "optimizilla",
-		"href": "http://optimizilla.com/",
-		"desc": "支持JPEG和PNG格式在线压缩工具",
-		"logo": "http://chuangzaoshi.com/assets/images/D/optimizilla.png"
-	}, {
-		"name": "bigjpg",
-		"href": "https://bigjpg.com/",
-		"desc": "图片智能算法无损放大",
-		"logo": "static/icons/bigjpg.com.ico"
-	}, {
-		"name": "WeaveSilk",
-		"href": "http://weavesilk.com/",
-		"desc": "炫酷对称艺术纹理特效绘制",
-		"logo": "http://chuangzaoshi.com/assets/images/D/weavesilk.png"
-	}, {
-		"name": "Loading",
-		"href": "https://loading.io/",
-		"desc": "在线快速生成loading图标",
-		"logo": "static/icons/loading.io.ico"
-	}, {
-		"name": "Goimg.io",
-		"href": "https://goimg.io/",
-		"desc": "智能在线图片压缩",
-		"logo": "static/icons/img.top.ico"
-	}, { 
-		"name": "Preloaders",
-		"href": "https://icons8.com/preloaders/",
-		"desc": "Loading加载动画在线制作",
-		"logo": "http://chuangzaoshi.com/assets/images/D/preloaders.png"
-	}, {
-		"name": "Squoosh",
-		"href": "https://squoosh.app/",
-		"desc": "Google在线优化压缩图片(支持webp)",
-		"logo": "http://chuangzaoshi.com/assets/images/D/squoosh.png"
-	}]
-}, {
-	"_id": "linggan",
-	"classify": "灵感`图素",
-	"icon": "ti-light-bulb",
-	"sites": [{
-		"name": "Muzli",
-		"href": "http://muz.li/",
-		"desc": "设计灵感资源聚合",
-		"logo": "static/icons/muz.li.ico"
-	}, {
-		"name": "Pinterest",
-		"href": "https://www.pinterest.com/",
-		"desc": "全球美图收藏采集站",
-		"logo": "static/icons/pinterest.com.ico"
-	}, {
-		"name": "站酷",
-		"href": "https://www.zcool.com.cn/",
-		"desc": "国内设计交流互动平台",
-		"logo": "static/icons/zcool.cn.ico"
-	}, {
-		"name": "花瓣",
-		"href": "http://huaban.com/",
-		"desc": "中国美图收藏采集站",
-		"logo": "static/icons/huaban.com.ico"
-	}, {
-		"name": "堆糖",
-		"href": "https://www.duitang.com/",
-		"desc": "美图壁纸兴趣社区",
-		"logo": "static/icons/duitang.com.ico"
-	}, {
-		"name": "设计癖",
-		"href": "http://www.shejipi.com/",
-		"desc": "美图好物发现社区",
-		"logo": "static/icons/shejipi.com.ico"
-	}, {
-		"name": "pixabay",
-		"href": "https://pixabay.com/",
-		"desc": "高清图片站",
-		"logo": "static/icons/pixabay.com.png"
-	}, {
-		"name": "unsplash",
-		"href": "https://unsplash.con/",
-		"desc": "高清图片站",
-		"logo": "static/icons/unsplash.com.ico"
-	}, {
-		"name": "pexels",
-		"href": "https://www.pexels.com/zh-cn/",
-		"desc": "可商用图片站-支持中文",
-		"logo": "static/icons/pexels.com.ico"
-	}]
-}, {
 	"_id": "blog",
-	"classify": "优秀de博客",
-	"icon": "ti-medall-alt",
+	"classify": "我的博客",
+	"icon": "ti-user",
 	"sites": [{
-		"name": "Rat's Blog ",
-		"href": "https://www.moerats.com/",
-		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
-		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
+		"name": "智桥分享",
+		"href": "https://www.qmshare.top/",
+		"desc": "一个资源分享平台，提供软件、壁纸、音乐和书籍等内容",
+		"logo": "static/icons/wobblog.ico"
 	}]
 }]
