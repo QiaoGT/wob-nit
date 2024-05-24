@@ -358,10 +358,10 @@
 		"desc": "免费微信图文排版工具，助您轻松打造精美公众号内容",
 		"logo": "static/icons/91join.ico"
 	},  {
-		"name": "Pho到pea",
-		"href": "https://www.pho到pea.com/",
+		"name": "Photopea",
+		"href": "https://www.photopea.com/",
 		"desc": "强大在线图片编辑器，轻松编辑处理各类图片",
-		"logo": "static/icons/pho到pea.png"
+		"logo": "static/icons/photopea.png"
 	},  {
 		"name": "Canva可画",
 		"href": "https://www.canva.cn/",
@@ -414,9 +414,9 @@
 		"logo": "static/icons/shenfendaquan.png"
 	},  {
 		"name": "信用卡号码生成器",
-		"href": "https://cardgenera到r.org/",
+		"href": "https://cardgenerator.io/",
 		"desc": "免费生成有效信用卡号，用于测试与验证",
-		"logo": "static/icons/cardgenera到r.png"
+		"logo": "static/icons/visa.png"
 	},  {
 		"name": "Cloudflare IP Batch Test Tool",
 		"href": "http://ip.flares.cloud/",
