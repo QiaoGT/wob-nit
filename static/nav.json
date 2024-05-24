@@ -580,7 +580,7 @@
 	},{
 		"name": "中国电信189邮箱",
 		"href": "https://webmail30.189.cn/",
-		"desc": "为用户提供稳定、安全的邮件收发功能"，
+		"desc": "为用户提供稳定、安全的邮件收发功能",
 		"logo": "static/icons/webmail30189.png"
 	},{
 		"name": "中国移动139邮箱",
