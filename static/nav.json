@@ -533,11 +533,6 @@
 		"desc": "20G存储空间，下载速度尚可",
 		"logo": "static/icons/InfiniCLOUD.png"
 	},{
-		"name": "腾讯微云",
-		"href": "https://www.weiyun.com/",
-		"desc": "5G存储空间，下载速度不太行",
-		"logo": "static/icons/weiyun.png"
-	},{
 		"name": "MEGA云盘",
 		"href": "https://mega.nz/",
 		"desc": "20G存储空间，上传不太行,下载还可",
@@ -547,6 +542,11 @@
 		"href": "https://www.ctfile.com/",
 		"desc": "500G存储空间，下载速度不太行",
 		"logo": "static/icons/ctwp.png"
+	},{
+		"name": "腾讯微云",
+		"href": "https://www.weiyun.com/",
+		"desc": "5G存储空间，下载速度不太行",
+		"logo": "static/icons/weiyun.png"
 	},{
 		"name": "曲奇云盘",
 		"href": "https://quqi.com/",
@@ -643,7 +643,7 @@
 		"desc": "免费下载macOS原版系统，ISO镜像，安全便捷",
 		"logo": "static/icons/macoshome.png"
 	},{
-		"name": "系统之家官网",
+		"name": "系统之家",
 		"href": "https://www.xitongzhijia.net/",
 		"desc": "提供Windows、MacOS、Linux系统镜像下载，安全、便捷",
 		"logo": "static/icons/xitongzhijia.ico"
