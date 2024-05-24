@@ -637,6 +637,16 @@
 		"href": "https://down.ali213.net/pcgame/",
 		"desc": "提供各种电脑游戏的下载，包括热门大作和独立游戏",
 		"logo": "static/icons/ali213.png"
+	},{
+		"name": "macOS系统",
+		"href": "https://macoshome.com/macos",
+		"desc": "免费下载macOS原版系统，ISO镜像，安全便捷",
+		"logo": "static/icons/macoshome.png"
+	},{
+		"name": "系统之家官网",
+		"href": "https://www.xitongzhijia.net/",
+		"desc": "提供Windows、MacOS、Linux系统镜像下载，安全、便捷",
+		"logo": "static/icons/xitongzhijia.ico"
 	}]
 }, {
 	"_id": "quwei",
