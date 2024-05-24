@@ -608,11 +608,6 @@
 	"classify": "休闲娱乐",
 	"icon": "ti-search",
 	"sites": [{
-		"name": "稀饭动漫",
-		"href": "https://dick.xfani.com/",
-		"desc": "高清动漫资源的网站，涵盖TV动画、剧场版、美漫等多种类型",
-		"logo": "static/icons/xifandm.png"
-	},{
 		"name": "轻之文库",
 		"href": "https://www.linovel.net/",
 		"desc": "轻小说阅读创作平台，汇聚佳作，发掘创意，畅享故事乐趣",
@@ -632,6 +627,11 @@
 		"href": "https://5sing.kugou.com/",
 		"desc": "原创音乐分享平台，汇聚佳作，共赏音乐之美",
 		"logo": "static/icons/5sing.png"
+	},{
+		"name": "稀饭动漫",
+		"href": "https://dick.xfani.com/",
+		"desc": "高清动漫资源的网站，涵盖TV动画、剧场版、美漫等多种类型",
+		"logo": "static/icons/xifandm.png"
 	},{
 		"name": "游侠网",
 		"href": "https://down.ali213.net/pcgame/",
