@@ -679,7 +679,7 @@
 		"logo": "static/icons/runoob.png"
 	},{
 		"name": "哔哩哔哩",
-		"href": "https://search.bilibili.com/all?keyword=%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0&from_source=webtop_search&spm_id_from=333.1073&search_source=2&page=2&o=30"，
+		"href": "https://search.bilibili.com/all?keyword=%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0&from_source=webtop_search&spm_id_from=333.1073&search_source=2&page=2&o=30",
 		"desc": "学习资源丰富，视频教程助成长，学习更轻松",
 		"logo": "static/icons/bilibili.png"
 	}]
