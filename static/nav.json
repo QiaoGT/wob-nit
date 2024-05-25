@@ -298,10 +298,10 @@
 		"desc": "强大的数学工具箱，涵盖各类计算与工具，学习工作必备",
 		"logo": "static/icons/numberempire.jpeg"
 	},  {
-		"name": "AI 魔术橡皮擦",
-		"href": "https://jpgrm.com/",
+		"name": "图像背景删除",
+		"href": "https://zh.clippingmagic.com/",
 		"desc": "智能擦除图片多余内容，填补背景，去水印，高效便捷",
-		"logo": "static/icons/jpgrm.svg"
+		"logo": "static/icons/clippingmagic.png"
 	},  {
 		"name": "音乐搜索器",
 		"href": "https://music.haom.ren/",
