@@ -613,10 +613,10 @@
 		"desc": "轻小说阅读创作平台，汇聚佳作，发掘创意，畅享故事乐趣",
 		"logo": "static/icons/linovel.jpg"
 	},{
-		"name": "动漫之家",
-		"href": "https://m.idmzj.com/",
+		"name": "看漫画",
+		"href": "https://www.kanman.com/",
 		"desc": "免费在线漫画平台，涵盖国产、日本、韩国及欧美漫画",
-		"logo": "static/icons/dmzj.jpeg"
+		"logo": "static/icons/kanman.gif"
 	},{
 		"name": "Pixiv",
 		"href": "https://www.pixiv.net/",
