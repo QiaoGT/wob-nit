@@ -258,6 +258,16 @@
 		"desc": "AI智能无损放大图片，深度CNN技术，清晰不失真",
 		"logo": "static/icons/bigjpg.ico"
 	},  {
+		"name": "图像背景删除",
+		"href": "https://zh.clippingmagic.com/",
+		"desc": "智能擦除图片多余内容，填补背景，去水印，高效便捷",
+		"logo": "static/icons/clippingmagic.png"
+	},  {
+		"name": "123apps",
+		"href": "https://123apps.com/cn/",
+		"desc": "在线音、视频编辑、转换、创建等",
+		"logo": "static/icons/capcut.ico"
+	},  {
 		"name": "在线转换文档，图像，音视频文件",
 		"href": "https://www.aconvert.com/cn/",
 		"desc": "多功能在线转换，支持文档、图像、视频、音频",
@@ -298,11 +308,6 @@
 		"desc": "强大的数学工具箱，涵盖各类计算与工具，学习工作必备",
 		"logo": "static/icons/numberempire.jpeg"
 	},  {
-		"name": "图像背景删除",
-		"href": "https://zh.clippingmagic.com/",
-		"desc": "智能擦除图片多余内容，填补背景，去水印，高效便捷",
-		"logo": "static/icons/clippingmagic.png"
-	},  {
 		"name": "音乐搜索器",
 		"href": "https://music.haom.ren/",
 		"desc": "多站合一，在线试听，轻松找到心仪歌曲",
@@ -337,11 +342,6 @@
 		"href": "https://www.crxsoso.com/",
 		"desc": "丰富的扩展和应用资源，一键安装，方便快捷",
 		"logo": "static/icons/crxsoso.png"
-	},  {
-		"name": "剪映视频编辑器",
-		"href": "https://www.capcut.cn/editor",
-		"desc": "专业视频编辑器，轻松剪辑、美化视频，打造创意短片",
-		"logo": "static/icons/capcut.ico"
 	},  {
 		"name": "Vmake",
 		"href": "https://vmake.ai/zh-CN/workspace",
