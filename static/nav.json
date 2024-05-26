@@ -513,6 +513,11 @@
 		"desc": "10G存储空间，下载速度尚可",
 		"logo": "static/icons/ltyp.png"
 	},{
+		"name": "115云盘",
+		"href": "https://115.com/",
+		"desc": "15G存储空间，下载速度尚可",
+		"logo": "static/icons/115pan.jpeg"
+	},{
 		"name": "UC网盘",
 		"href": "https://drive.uc.cn/",
 		"desc": "10G存储空间，下载速度尚可",
@@ -542,11 +547,6 @@
 		"href": "https://www.ctfile.com/",
 		"desc": "500G存储空间，下载速度不太行",
 		"logo": "static/icons/ctwp.png"
-	},{
-		"name": "腾讯微云",
-		"href": "https://www.weiyun.com/",
-		"desc": "5G存储空间，下载速度不太行",
-		"logo": "static/icons/weiyun.png"
 	},{
 		"name": "曲奇云盘",
 		"href": "https://quqi.com/",
