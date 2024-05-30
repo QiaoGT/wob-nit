@@ -98,6 +98,11 @@
 		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
 		"logo": "static/icons/yige.png"
 	}, {
+		"name": "Tensor.Art",
+		"href": "https://tensor.art/"，
+		"desc": "一个免费在线图像生成器和模型托管网站，支持创作和AI工具",
+		"logo": "static/icons/tensor.png"
+	}, {
 		"name": "吐司",
 		"href": "https://tusiart.com",
 		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
@@ -342,6 +347,11 @@
 		"href": "https://www.crxsoso.com/",
 		"desc": "丰富的扩展和应用资源，一键安装，方便快捷",
 		"logo": "static/icons/crxsoso.png"
+	},  {
+		"name": "OpenPoses",
+		"href": "https://openposes.com/",
+		"desc": "一个专注于人体姿态检测的网站",
+		"logo": "static/icons/OpenPoses.ico"
 	},  {
 		"name": "Vmake",
 		"href": "https://vmake.ai/zh-CN/workspace",
