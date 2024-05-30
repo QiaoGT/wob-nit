@@ -99,7 +99,7 @@
 		"logo": "static/icons/yige.png"
 	}, {
 		"name": "Tensor.Art",
-		"href": "https://tensor.art/"，
+		"href": "https://tensor.art/",
 		"desc": "一个免费在线图像生成器和模型托管网站，支持创作和AI工具",
 		"logo": "static/icons/tensor.png"
 	}, {
