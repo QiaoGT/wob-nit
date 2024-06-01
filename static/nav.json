@@ -143,6 +143,11 @@
 		"desc": "AI艺术生成平台，创作无限可能，艺术触手可及",
 		"logo": "static/icons/leonardo.png"
 	}, {
+		"name": "Weights",
+		"href": "https://weights.gg/zh",
+		"desc": "免费使用AI创作，创新无限，智慧引领设计新潮",
+		"logo": "static/icons/weights.png"
+	}, {
 		"name": "触手AI",
 		"href": "https://www.acgnai.art/create/minimalism",
 		"desc": "一个AI绘画创作平台，专注于极简主义风格的艺术作品生成",
@@ -267,6 +272,11 @@
 		"href": "https://zh.clippingmagic.com/",
 		"desc": "智能擦除图片多余内容，填补背景，去水印，高效便捷",
 		"logo": "static/icons/clippingmagic.png"
+	},  {
+		"name": "分离人声 [AI]",
+		"href": "https://vocalremover.org/zh/",
+		"desc": "智能分离人声，轻松提取纯净伴奏，操作便捷高效",
+		"logo": "static/icons/vocalremover.png"
 	},  {
 		"name": "123apps",
 		"href": "https://123apps.com/cn/",
