@@ -79,9 +79,14 @@
 		"logo": "static/icons/yiyan.png"
 	}, {
 		"name": "ChatGPT镜像",
-		"href": "https://chat.freegpts.org/",
+		"href": "https://chat.rawchat.cc/",
 		"desc": "免费AI聊天平台，提供交流和信息共享",
 		"logo": "static/icons/chatgptgx.png"
+	}, {
+		"name": "Chat Blackbox",
+		"href": "https://www.blackbox.ai/",
+		"desc": "智能代码生成，代码交流，代码搜索一站式平台",
+		"logo": "static/icons/blackbox.png"
 	}, {
 		"name": "BusinessAI",
 		"href": "https://aichat.kqbusinessai.com/web/#/",
@@ -498,15 +503,20 @@
 	"classify": "云盘储存",
 	"icon": "ti-cloud",
 	"sites": [{
-		"name": "蓝奏云",
-		"href": "https://pc.woozooo.com/",
-		"desc": "100MB以下无限存储空间，下载速度尚可",
-		"logo": "static/icons/woozooo.ico"
+		"name": "先锋巴巴",
+		"href": "https://88.xfshangan.cn:88/",
+		"desc": "普通用户4.88T存储空间，下载速度尚可",
+		"logo": "static/icons/88xfshangan.png"
 	},{
 		"name": "123云盘",
 		"href": "https://www.123pan.com/",
 		"desc": "普通用户2T存储空间，下载速度尚可",
 		"logo": "static/icons/123pan.png"
+	},{
+		"name": "蓝奏云",
+		"href": "https://pc.woozooo.com/",
+		"desc": "100MB以下无限存储空间，下载速度尚可",
+		"logo": "static/icons/woozooo.ico"
 	},{
 		"name": "迅雷云盘",
 		"href": "https://pan.xunlei.com/",
@@ -537,6 +547,11 @@
 		"href": "https://115.com/",
 		"desc": "15G存储空间，下载速度尚可",
 		"logo": "static/icons/115pan.jpeg"
+	},{
+		"name": "小飞机网盘",
+		"href": "https://www.feijipan.com/",
+		"desc": "10G存储空间，下载速度尚可，完成任务得1T,有效期1年",
+		"logo": "static/icons/feijipan.png"
 	},{
 		"name": "UC网盘",
 		"href": "https://drive.uc.cn/",
