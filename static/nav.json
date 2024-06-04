@@ -73,6 +73,11 @@
 		"desc": "一个提供信息和资源的平台",
 		"logo": "static/icons/coze.png"
 	}, {
+		"name": "Copilot",
+		"href": "https://copilot.microsoft.com/",
+		"desc": "微软智能助手,提升效率，赋能未来工作与创意",
+		"logo": "static/icons/copilot.svg"
+	}, {
 		"name": "文心一言",
 		"href": "https://yiyan.baidu.com/",
 		"desc": "百度推出的AI对话服务，提供问答和多轮对话能力",
