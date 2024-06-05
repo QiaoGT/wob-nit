@@ -750,7 +750,7 @@
 	},{
 		"name": "DLAI - Learning Platform",
 		"href": "https://learn.deeplearning.ai/",
-		"desc": "全面培训资源，助你精通微软技术，提升技能",
+		"desc": "由Google AI研究人员讲授的免费、互动式深度学习课程，涵盖从基础知识到最前沿技术的一切内容",
 		"logo": "static/icons/learndeep.ico"
 	},{
 		"name": "菜鸟教程",
