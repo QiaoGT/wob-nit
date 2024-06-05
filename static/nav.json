@@ -68,10 +68,20 @@
 	"classify": "AI工具",
 	"icon": "ti-wand",
 	"sites": [{
-		"name": "扣子",
-		"href": "https://www.coze.cn/",
+		"name": "Hugging Face",
+		"href": "https://huggingface.co/",
+		"desc": "机器学习模型和数据集的共享平台,让研究人员和开发者能够轻松协作、训练和部署最先进的模型",
+		"logo": "static/icons/huggingface.ico"
+	}, {
+		"name": "Coze",
+		"href": "https://www.coze.com/",
 		"desc": "一个提供信息和资源的平台",
 		"logo": "static/icons/coze.png"
+	}, {
+		"name": "Gemini",
+		"href": "https://chat-gemini-gilt.vercel.app/",
+		"desc": "谷歌开发的多模态大模型,可以无缝地理解、操作和组合不同类型的信息",
+		"logo": "static/icons/gemini.png"
 	}, {
 		"name": "Copilot",
 		"href": "https://copilot.microsoft.com/",
