@@ -264,7 +264,7 @@
 	"icon": "ti-bolt",
 	"sites": [{
 		"name": "Koodo Reader",
-		"href": "https://web.koodoreader.com",
+		"href": "https://www.koodoreader.com/zh",
 		"desc": "强大开源电子书阅读器，支持多格式跨平台阅读",
 		"logo": "static/icons/koodoreader.png"
 	},  {
@@ -329,7 +329,7 @@
 		"logo": "static/icons/VisualStudioCode.png"
 	},  {
 		"name": "思绪思维导图",
-		"href": "https://wanglin2.github.io/mind-map/#/",
+		"href": "https://mind-map-9oo.pages.dev/#/",
 		"desc": "强大Web思维导图，支持在线与客户端使用",
 		"logo": "static/icons/mindmap.png"
 	},  {
