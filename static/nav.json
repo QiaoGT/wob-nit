@@ -448,7 +448,7 @@
 		"desc": "权威域名注册信息数据查询网站，信息全面可靠",
 		"logo": "static/icons/icann.ico"
 	},  {
-		"name": "各国身份证生成器",
+		"name": "身份证生成器",
 		"href": "https://www.dizhishengcheng.com/",
 		"desc": "生成各国身份信息、地址及信用卡信息",
 		"logo": "static/icons/shenfendaquan.png"
@@ -457,6 +457,16 @@
 		"href": "https://cardgenerator.io/",
 		"desc": "免费生成有效信用卡号，用于测试与验证",
 		"logo": "static/icons/visa.png"
+	},  {
+		"name": "在线接收短信",
+		"href": "https://receiveasmsonline.com/zh-cn/",
+		"desc": "无需提供真实号码保护隐私,用于验证、注册和接收一次性密码",
+		"logo": "static/icons/receiveasmsonline.svg"
+	},  {
+		"name": "SMS-Activate",
+		"href": "https://sms-activate.org/cn",
+		"desc": "提供一次性虚拟电话号码，保护您的隐私并绕过双重身份验证",
+		"logo": "static/icons/smsactivate.png"
 	},  {
 		"name": "Cloudflare IP Batch Test Tool",
 		"href": "http://ip.flares.cloud/",
@@ -718,10 +728,30 @@
 		"desc": "在线教程、课程丰富，电子书库全面，学习资料一站备齐",
 		"logo": "static/icons/testingtools.ico"
 	},{
+		"name": "Coursera",
+		"href": "https://www.coursera.org/",
+		"desc": "提供来自全球知名大学和机构的互动式课程、专业化证书和学位课程",
+		"logo": "static/icons/coursera.png"
+	},{
 		"name": "Microsoft Learnpe培训",
 		"href": "https://learn.microsoft.com/zh-cn/training/",
 		"desc": "全面培训资源，助你精通微软技术，提升技能",
 		"logo": "static/icons/Learnmicrosoft.svg"
+	},{
+		"name": "Coursera",
+		"href": "https://www.coursera.org/",
+		"desc": "提供来自全球知名大学和机构的互动式课程、专业化证书和学位课程",
+		"logo": "static/icons/coursera.png"
+	},{
+		"name": "MIT OpenCourseWare",
+		"href": "https://ocw.mit.edu/",
+		"desc": "麻省理工学院公开课件计划提供来自MIT教授的免费在线课程、讲座笔记、视频和练习题",
+		"logo": "static/icons/cwmitedu.ico"
+	},{
+		"name": "DLAI - Learning Platform",
+		"href": "https://learn.deeplearning.ai/",
+		"desc": "全面培训资源，助你精通微软技术，提升技能",
+		"logo": "static/icons/learndeep.ico"
 	},{
 		"name": "菜鸟教程",
 		"href": "https://www.runoob.com/",
