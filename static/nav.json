@@ -80,7 +80,7 @@
 	}, {
 		"name": "Gemini",
 		"href": "https://chat-gemini-gilt.vercel.app/",
-		"desc": "谷歌开发的多模态大模型(API接口),可以无缝地理解、操作和组合不同类型的信息",
+		"desc": "谷歌开发的多模态大模型,可以无缝地理解、操作和组合不同类型的信息",
 		"logo": "static/icons/geminipro.png"
 	}, {
 		"name": "Copilot",
