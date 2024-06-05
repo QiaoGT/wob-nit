@@ -19,7 +19,7 @@
 		"logo": "static/icons/wikipedia.png"
 	}, {
 		"name": "Z-Library",
-		"href": "https://zh.z-library.se/",
+		"href": "https://zh.zlibrary-asia.se/",
 		"desc": "一个提供免费电子书和学术论文下载的网站",
 		"logo": "static/icons/z-library.png"
 	}, {
@@ -39,7 +39,7 @@
 		"logo": "static/icons/baiduAI.png"
 	}, {
 		"name": "网飞猫",
-		"href": "https://www.ncat2.com:51111/",
+		"href": "https://www.ncat2.com",
 		"desc": "最新Netflix新剧、电影、综艺、动漫等视频资源的在线观看平台",
 		"logo": "static/icons/ncat2.png"
 	}, {
@@ -89,7 +89,7 @@
 		"logo": "static/icons/copilot.svg"
 	}, {
 		"name": "ChatGPT镜像",
-		"href": "https://chat.rawchat.cc/",
+		"href": "https://chat.freegpts.org/",
 		"desc": "免费AI聊天平台，提供交流和信息共享",
 		"logo": "static/icons/chatgptgx.png"
 	}, {
@@ -104,7 +104,7 @@
 		"logo": "static/icons/blackbox.png"
 	}, {
 		"name": "BusinessAI",
-		"href": "https://aichat.kqbusinessai.com/web/#/",
+		"href": "https://aichat.kqbusinessai.com",
 		"desc": "AI商务聊天：提供商务咨询和AI聊天服务的平台",
 		"logo": "static/icons/BusinessAI.png"
 	}, {
@@ -112,11 +112,6 @@
 		"href": "https://character.ai/",
 		"desc": "个性化AI，陪你度过每一天的每一刻",
 		"logo": "static/icons/characterAI.svg"
-	}, {
-		"name": "文心一格 ",
-		"href": "https://yige.baidu.com/",
-		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
-		"logo": "static/icons/yige.png"
 	}, {
 		"name": "Tensor.Art",
 		"href": "https://tensor.art/",
@@ -132,6 +127,11 @@
 		"href": "https://www.liblib.art/",
 		"desc": "一个领先的AI创作平台，提供多种AI工具和创作服务",
 		"logo": "static/icons/liblib.png"
+	}, {
+		"name": "Weights",
+		"href": "https://weights.gg/zh",
+		"desc": "免费使用AI创作，创新无限，智慧引领设计新潮",
+		"logo": "static/icons/weights.png"
 	}, {
 		"name": "炼丹家AI",
 		"href": "https://www.liandanjia.com/app/home",
@@ -163,10 +163,10 @@
 		"desc": "AI艺术生成平台，创作无限可能，艺术触手可及",
 		"logo": "static/icons/leonardo.png"
 	}, {
-		"name": "Weights",
-		"href": "https://weights.gg/zh",
-		"desc": "免费使用AI创作，创新无限，智慧引领设计新潮",
-		"logo": "static/icons/weights.png"
+		"name": "文心一格 ",
+		"href": "https://yige.baidu.com/",
+		"desc": "一个提供在线图像生成服务的AI模型分享社区，用户可以免费使用",
+		"logo": "static/icons/yige.png"
 	}, {
 		"name": "触手AI",
 		"href": "https://www.acgnai.art/create/minimalism",
@@ -174,7 +174,7 @@
 		"logo": "static/icons/acgnai.png"
 	}, {
 		"name": "echo ai",
-		"href": "https://app.recraft.ai/projects",
+		"href": "https://echoai.cc/",
 		"desc": "一个提供AI绘画服务的网站以及绘画内容展示",
 		"logo": "static/icons/echoai.webp"
 	}, {
