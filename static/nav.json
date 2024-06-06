@@ -610,12 +610,12 @@
 	},{
 		"name": "曲奇云盘",
 		"href": "https://quqi.com/",
-		"desc": "2T存储空间，上传下载速度都不太行",
+		"desc": "2T存储空间，上传、下载速度都不太行",
 		"logo": "static/icons/quqi.ico"
 	},{
 		"name": "百度网盘",
 		"href": "https://pan.baidu.com/",
-		"desc": "300G存储空间，上传下载速度都不太行",
+		"desc": "300G存储空间，上传、下载速度都不太行",
 		"logo": "static/icons/baidupan.ico"
 	}]
 },  { 
