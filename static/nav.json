@@ -79,7 +79,7 @@
 		"logo": "static/icons/coze.png"
 	}, {
 		"name": "Gemini镜像",
-		"href": "https://gemini-nine-orcin.vercel.app/",
+		"href": "https://gemini-4dx.pages.dev/",
 		"desc": "谷歌开发的多模态大模型,可以无缝地理解、操作和组合不同类型的信息",
 		"logo": "static/icons/geminipro.png"
 	}, {
