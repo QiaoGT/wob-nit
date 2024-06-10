@@ -203,6 +203,11 @@
 		"desc": "一个内容生成和提供人工智能驱动的解决方案的平台",
 		"logo": "static/icons/viggle.png"
 	}, {
+		"name": "Pika",
+		"href": "https://pika.art/",
+		"desc": "一个为创作者提供2D实时动画表现技术的网站",
+		"logo": "static/icons/Pika.ico"
+	}, {
 		"name": "GenmoAI",
 		"href": "https://www.genmo.ai/",
 		"desc": "AI创意平台，轻松制作视频与图像",
@@ -702,6 +707,16 @@
 		"href": "https://down.ali213.net/pcgame/",
 		"desc": "提供各种电脑游戏的下载，包括热门大作和独立游戏",
 		"logo": "static/icons/ali213.png"
+	},{
+		"name": "模之屋",
+		"href": "https://www.aplaybox.com/",
+		"desc": "一个专业的模型创作分享社区，用户可以在此发布和分享3D模型作品",
+		"logo": "static/icons/aplaybox.png"
+	},{
+		"name": "Live2D Cubism",
+		"href": "https://www.live2d.com/zh-CHS/",
+		"desc": "一个为创作者提供2D实时动画表现技术的网站",
+		"logo": "static/icons/live2d.ico"
 	},{
 		"name": "macOS系统",
 		"href": "https://macoshome.com/macos",
