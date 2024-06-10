@@ -78,6 +78,11 @@
 		"desc": "一个提供信息和资源的平台",
 		"logo": "static/icons/coze.png"
 	}, {
+		"name": "Discord",
+		"href": "https://discord.com/",
+		"desc": "社群聊天平台，支持各种AI社区，游戏社区和服务器管理等",
+		"logo": "static/icons/coze.png"
+	}, {
 		"name": "Gemini镜像",
 		"href": "https://gemini-4dx.pages.dev/",
 		"desc": "谷歌开发的多模态大模型,可以无缝地理解、操作和组合不同类型的信息",
@@ -268,6 +273,11 @@
 	"classify": "在线工具",
 	"icon": "ti-bolt",
 	"sites": [{
+		"name": "Online Reader",
+		"href": "https://cn..com/",
+		"desc": "在线文件阅读器，支持50多种格式，包括书籍、办公文件、音视频、图片等",
+		"logo": "static/icons/online-reader.png"
+	},  {
 		"name": "Koodo Reader",
 		"href": "https://www.koodoreader.com/zh",
 		"desc": "强大开源电子书阅读器，支持多格式跨平台阅读",
@@ -297,6 +307,11 @@
 		"href": "https://zh.clippingmagic.com/",
 		"desc": "智能擦除图片多余内容，填补背景，去水印，高效便捷",
 		"logo": "static/icons/clippingmagic.png"
+	},  {
+		"name": "Remove bg",
+		"href": "https://www.remove.bg/zh",
+		"desc": "智能擦除图片多余内容，可自定义添加背景，高效便捷",
+		"logo": "static/icons/remove.png"
 	},  {
 		"name": "分离人声 [AI]",
 		"href": "https://vocalremover.org/zh/",
@@ -402,6 +417,11 @@
 		"href": "https://jianwai.youdao.com/index/0",
 		"desc": "AI驱动的转写翻译平台，支持多场景应用",
 		"logo": "static/icons/jianwai.ico"
+	},  {
+		"name": "PPT模版免费下载",
+		"href": "https://www.1ppt.com/",
+		"desc": "免费微信图文排版工具，助您轻松打造精美公众号内容",
+		"logo": "static/icons/1ppt.ico"
 	},  {
 		"name": "91微信编辑器",
 		"href": "http://bj.91join.com/",
