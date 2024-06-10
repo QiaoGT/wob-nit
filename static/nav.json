@@ -371,7 +371,7 @@
 		"name": "Telegraph-image",
 		"href": "https://telegraph-image-8wn.pages.dev/",
 		"desc": "一个图像分享平台，用户可以上传图像并生成唯一链接分享",
-		"logo": "static/iconstelegraphimage.ico"
+		"logo": "static/icons/telegraphimage.ico"
 	},  {
 		"name": "磁力种子互转",
 		"href": "https://bt.js.org/",
