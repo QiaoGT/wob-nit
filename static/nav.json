@@ -1,5 +1,5 @@
 [{
-	"_id": "ruanjian",
+	"_id": "ruanjian",li
 	"classify": "常用推荐",
 	"icon": "ti-star",
 	"sites": [{
@@ -448,15 +448,35 @@
 		"desc": "免费在线GIF编辑器， 轻松制作与编辑动画GIF",
 		"logo": "static/icons/ezgif.png"
 	},  {
+		"name": "物种2000中国节点",
+		"href": "http://sp2000.org.cn/",
+		"desc": "提供物种分类信息及数据服务，致力于记录、整理和发布中国生物物种的科学信息",
+		"logo": "static/icons/sp2000.png"
+	},  {
 		"name": "易紧通紧固件网",
 		"href": "https://www.164580.com/biaozhun/",
 		"desc": "提供全面的紧固件标准信息与电子商务解决方案",
 		"logo": "static/icons/164580.ico"
 	},  {
+		"name": "SOCPK",
+		"href": "https://www.socpk.com/",
+		"desc": "一个专注于移动芯片性能排行的网站",
+		"logo": "static/icons/socpk.ico"
+	},  {
+		"name": "桌面CPU性能天梯图",
+		"href": "https://www.mydrivers.com/zhuanti/tianti/cpu/index.html",
+		"desc": "提供CPU性能天梯图和相关资讯，适合硬件爱好者参考",
+		"logo": "static/icons/mydrivers.ico"
+	},  {
 		"name": "职级对标",
 		"href": "https://duibiao.info/",
 		"desc": "直观对比字节跳动、腾讯、阿里职级体系",
 		"logo": "static/icons/duibiao.png"
+	},  {
+		"name": "Kaspersky",
+		"href": "https://opentip.kaspersky.com/",
+		"desc": "病毒文件检查,用于检测文件和分析恶意软件",
+		"logo": "static/icons/kaspersky.ico"
 	},  {
 		"name": "ITDOG",
 		"href": "https://www.itdog.cn/",
@@ -750,7 +770,7 @@
 	},{
 		"name": "Clicli",
 		"href": "https://www.clicli.cc/",
-		"desc": "视频分享平台，聚焦动漫、游戏、音乐、生活等内容",
+		"desc": "一个提供弹幕服务的视频分享网站，用户可以观看和上传视频",
 		"logo": "static/icons/clicli.ico"
 	},{
 		"name": "macOS系统",
