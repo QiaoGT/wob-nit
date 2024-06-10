@@ -423,6 +423,16 @@
 		"desc": "免费微信图文排版工具，助您轻松打造精美公众号内容",
 		"logo": "static/icons/1ppt.ico"
 	},  {
+		"name": "网名生成器",
+		"href": "https://www.qmsjmfb.com/",
+		"desc": "提供中文、英文、韩文、日文等多种网名和姓名生成服务，支持不同类型和风格的名字生成",
+		"logo": "static/icons/qmsjmfb.ico"
+	},  {
+		"name": "艺术签名在线生成",
+		"href": "http://www.yishuzi.com/",
+		"desc": "一个提供书法、艺术字体设计、艺术字生成器等服务的专业平台",
+		"logo": "static/icons/yishuzi.ico"
+	},  {
 		"name": "91微信编辑器",
 		"href": "http://bj.91join.com/",
 		"desc": "免费微信图文排版工具，助您轻松打造精美公众号内容",
@@ -447,6 +457,16 @@
 		"href": "https://ezgif.com/https://ezgif.com/",
 		"desc": "免费在线GIF编辑器， 轻松制作与编辑动画GIF",
 		"logo": "static/icons/ezgif.png"
+	},  {
+		"name": "MusicForProgram",
+		"href": "https://musicforprogramming.net/",
+		"desc": "提供为编程设计的背景音乐集，帮助用户在编程时集中注意力",
+		"logo": "static/icons/musicforprogram.png"
+	},  {
+		"name": "烟花模拟器",
+		"href": "https://nianbroken.github.io/Firework_Simulator/",
+		"desc": "一个互动的烟花模拟器，用户可以调整烟花类型、大小和效果，在虚拟夜空中欣赏烟花表演",
+		"logo": "static/icons/nianbroken.png"
 	},  {
 		"name": "物种2000中国节点",
 		"href": "http://sp2000.org.cn/",
@@ -743,6 +763,11 @@
 		"desc": "高清动漫资源的网站，涵盖TV动画、剧场版、美漫等多种类型",
 		"logo": "static/icons/xifandm.png"
 	},{
+		"name": "黑士体育",
+		"href": "https://www.cnmysoft.com/",
+		"desc": "提供体育赛事直播，包括足球、篮球、NBA、CBA等，内容源自网络",
+		"logo": "static/icons/cnmysoft.ico"
+	},{
 		"name": "游侠网",
 		"href": "https://down.ali213.net/pcgame/",
 		"desc": "提供各种电脑游戏的下载，包括热门大作和独立游戏",
@@ -833,10 +858,20 @@
 		"desc": "在线学习平台，提供全球顶尖大学的在线课程和学位项目",
 		"logo": "static/icons/Coursera.ico"
 	},{
+		"name": "R2coding",
+		"href": "https://www.r2coding.com/",
+		"desc": "提供编程教程、代码实例和技术资源，帮助开发者提升编程技能",
+		"logo": "static/icons/r2coding.ico"
+	},{
 		"name": "菜鸟教程",
 		"href": "https://www.runoob.com/",
 		"desc": "编程技术学习平台，助力实现梦想，成就未来",
 		"logo": "static/icons/runoob.png"
+	},{
+		"name": "考试酷",
+		"href": "https://www.examcoo.com/",
+		"desc": "一个永久免费的在线考试与电子作业系统平台，适用于学校、培训机构及企业。",
+		"logo": "static/icons/examcoo.ico"
 	}]
 },{
 	"_id": "blog",
