@@ -738,6 +738,21 @@
 		"desc": "一个为创作者提供2D实时动画表现技术的网站",
 		"logo": "static/icons/live2d.ico"
 	},{
+		"name": "AcFun",
+		"href": "https://www.acfun.cn/",
+		"desc": "动漫视频分享平台，提供动画、科幻、游戏等视频内容",
+		"logo": "static/icons/acfun.png"
+	},{
+		"name": "Bilibili",
+		"href": "https://search.bilibili.com/",
+		"desc": "视频分享平台，聚焦动漫、游戏、音乐、生活等内容",
+		"logo": "static/icons/bilibili.png"
+	},{
+		"name": "Clicli",
+		"href": "https://www.clicli.cc/",
+		"desc": "视频分享平台，聚焦动漫、游戏、音乐、生活等内容",
+		"logo": "static/icons/clicli.ico"
+	},{
 		"name": "macOS系统",
 		"href": "https://macoshome.com/macos",
 		"desc": "免费下载macOS原版系统，ISO镜像，安全便捷",
@@ -793,15 +808,15 @@
 		"desc": "由Google AI研究人员讲授的免费、互动式深度学习课程，涵盖从基础知识到最前沿技术的一切内容",
 		"logo": "static/icons/learndeep.ico"
 	},{
+		"name": "Coursera",
+		"href": "https://www.coursera.org/",
+		"desc": "在线学习平台，提供全球顶尖大学的在线课程和学位项目",
+		"logo": "static/icons/Coursera.ico"
+	},{
 		"name": "菜鸟教程",
 		"href": "https://www.runoob.com/",
 		"desc": "编程技术学习平台，助力实现梦想，成就未来",
 		"logo": "static/icons/runoob.png"
-	},{
-		"name": "哔哩哔哩",
-		"href": "https://search.bilibili.com/all?keyword=%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0&from_source=webtop_search&spm_id_from=333.1073&search_source=2&page=2&o=30",
-		"desc": "学习资源丰富，视频教程助成长，学习更轻松",
-		"logo": "static/icons/bilibili.png"
 	}]
 },{
 	"_id": "blog",
