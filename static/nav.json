@@ -368,6 +368,11 @@
 		"desc": "跨设备传文件、文本、屏幕、视频，高效便捷",
 		"logo": "static/icons/easychuan.png"
 	},  {
+		"name": "Telegraph-image",
+		"href": "https://telegraph-image-8wn.pages.dev/",
+		"desc": "一个图像分享平台，用户可以上传图像并生成唯一链接分享",
+		"logo": "static/iconstelegraphimage.ico"
+	},  {
 		"name": "磁力种子互转",
 		"href": "https://bt.js.org/",
 		"desc": "轻松将磁力链接转换为种子文件",
