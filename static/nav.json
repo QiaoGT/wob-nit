@@ -428,10 +428,10 @@
 		"desc": "直观对比字节跳动、腾讯、阿里职级体系",
 		"logo": "static/icons/duibiao.png"
 	},  {
-		"name": "站长工具",
+		"name": "ITDOG",
 		"href": "https://tool.chinaz.com/",
-		"desc": "在线工具平台，提供丰富的网站管理与优化工具",
-		"logo": "static/icons/toolchinaz.png"
+		"desc": "在线ping、IP检测、网站测速、DNS查询、HTTP测速、API测速、路由追踪、在线tcping、在线MTR",
+		"logo": "static/icons/ITDOG.png"
 	},  {
 		"name": "IP地址和DNS地址检查",
 		"href": "https://whoer.net/zh",
