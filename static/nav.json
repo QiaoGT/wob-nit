@@ -429,7 +429,7 @@
 		"logo": "static/icons/duibiao.png"
 	},  {
 		"name": "ITDOG",
-		"href": "https://tool.chinaz.com/",
+		"href": "https://www.itdog.cn/",
 		"desc": "在线ping、IP检测、网站测速、DNS查询、HTTP测速、API测速、路由追踪、在线tcping、在线MTR",
 		"logo": "static/icons/ITDOG.png"
 	},  {
