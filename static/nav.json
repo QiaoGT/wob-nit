@@ -817,6 +817,11 @@
 		"href": "https://www.loecsen.com/zh",
 		"desc": "免费在线课程，涵盖51种语言，学习资源丰富多样",
 		"logo": "static/icons/loecsen.ico"
+	},{
+		"name": "多邻国",
+		"href": "https://www.duolingo.cn/",
+		"desc": "一个免费语言学习平台，提供多种语言课程，帮助用户通过有趣的方式提高语言技能",
+		"logo": "static/icons/duolingo.ico"
 	}, {
 		"name": "可汗学院",
 		"href": "https://zh.khanacademy.org/",
@@ -852,11 +857,6 @@
 		"href": "https://learn.deeplearning.ai/",
 		"desc": "由Google AI研究人员讲授的免费、互动式深度学习课程，涵盖从基础知识到最前沿技术的一切内容",
 		"logo": "static/icons/learndeep.ico"
-	},{
-		"name": "Coursera",
-		"href": "https://www.coursera.org/",
-		"desc": "在线学习平台，提供全球顶尖大学的在线课程和学位项目",
-		"logo": "static/icons/Coursera.ico"
 	},{
 		"name": "R2coding",
 		"href": "https://www.r2coding.com/",
