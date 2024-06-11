@@ -81,8 +81,7 @@
 		"name": "Discord",
 		"href": "https://discord.com/",
 		"desc": "社群聊天平台，支持各种AI社区，游戏社区和服务器管理等",
-		"logo": "static/icons/discord.png
-"
+		"logo": "static/icons/discord.png"
 	}, {
 		"name": "Gemini镜像",
 		"href": "https://gemini-4dx.pages.dev/",
