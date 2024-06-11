@@ -73,15 +73,15 @@
 		"desc": "机器学习模型和数据集的共享平台,让研究人员和开发者能够轻松协作、训练和部署最先进的模型",
 		"logo": "static/icons/huggingface.ico"
 	}, {
-		"name": "Coze",
-		"href": "https://www.coze.com/",
-		"desc": "一个提供信息和资源的平台",
-		"logo": "static/icons/coze.png"
-	}, {
 		"name": "Discord",
 		"href": "https://discord.com/",
 		"desc": "社群聊天平台，支持各种AI社区，游戏社区和服务器管理等",
 		"logo": "static/icons/discord.png"
+	}, {
+		"name": "Coze",
+		"href": "https://www.coze.com/",
+		"desc": "一个提供信息和资源的平台",
+		"logo": "static/icons/coze.png"
 	}, {
 		"name": "Gemini镜像",
 		"href": "https://gemini-4dx.pages.dev/",
