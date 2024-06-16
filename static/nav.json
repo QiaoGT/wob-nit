@@ -133,6 +133,11 @@
 		"desc": "一个领先的AI创作平台，提供多种AI工具和创作服务",
 		"logo": "static/icons/liblib.png"
 	}, {
+		"name": "Shakker",
+		"href": "https://www.shakker.ai/",
+		"desc": "使用 AI 技术生成高质量的内容，包括文章、社交媒体帖子和产品描述",
+		"logo": "static/icons/shakker.ico"
+	}, {
 		"name": "Weights",
 		"href": "https://weights.gg/zh",
 		"desc": "免费使用AI创作，创新无限，智慧引领设计新潮",
@@ -208,6 +213,11 @@
 		"desc": "一个内容生成和提供人工智能驱动的解决方案的平台",
 		"logo": "static/icons/viggle.png"
 	}, {
+		"name": "Luma Dream Machine",
+		"href": "https://lumalabs.ai/dream-machine",
+		"desc": "使用AI从用户输入中生成令人惊叹的超现实艺术，创造出独特而迷人的视觉效果",
+		"logo": "static/icons/lumalabs.svg"
+	}, {
 		"name": "Pika",
 		"href": "https://pika.art/",
 		"desc": "一个为创作者提供2D实时动画表现技术的网站",
@@ -239,7 +249,7 @@
 		"logo": "static/icons/Suno.png"
 	}, {
 		"name": "GeoSpy Pro",
-		"href": "https://pro.geospy.ai/",
+		"href": "https://geospy.ai/",
 		"desc": "将像素转化为智能，提供精准的地理定位与分析服务",
 		"logo": "static/icons/geospy.png"
 	}, {
@@ -296,6 +306,11 @@
 		"name": " Apeaksoft",
 		"href": "https://www.apeaksoft.com/zh-CN/",
 		"desc": "一站式数据解决方案，产品里免费工具蛮好用",
+		"logo": "static/icons/apeaksoft.ico"
+	},  {
+		"name": " Yandex",
+		"href": "https://yandex.com/",
+		"desc": "互联网搜索网站，提供图片、视频地理位置等搜索",
 		"logo": "static/icons/apeaksoft.ico"
 	},  {
 		"name": " NeuralWriter",
