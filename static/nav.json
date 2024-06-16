@@ -311,7 +311,7 @@
 		"name": " Yandex",
 		"href": "https://yandex.com/",
 		"desc": "互联网搜索网站，提供图片、视频地理位置等搜索",
-		"logo": "static/icons/apeaksoft.ico"
+		"logo": "static/icons/syandex.png"
 	},  {
 		"name": " NeuralWriter",
 		"href": "https://neuralwriter.com/zh/",
