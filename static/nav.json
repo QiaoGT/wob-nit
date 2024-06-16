@@ -388,6 +388,11 @@
 		"desc": "强大的数学工具箱，涵盖各类计算与工具，学习工作必备",
 		"logo": "static/icons/numberempire.jpeg"
 	},  {
+		"name": "Calculator Suite",
+		"href": "https://www.geogebra.org/calculator",
+		"desc": "在线计算器为几何、代数和微积分提供交互式数学工具，使学习数学变得有趣和有趣",
+		"logo": "static/icons/CalculatorSuite.svg"
+	},  {
 		"name": "音乐搜索器",
 		"href": "https://music.haom.ren/",
 		"desc": "多站合一，在线试听，轻松找到心仪歌曲",
@@ -527,6 +532,11 @@
 		"href": "https://www.itdog.cn/",
 		"desc": "在线ping、IP检测、网站测速、DNS查询、HTTP测速、API测速、路由追踪、在线tcping、在线MTR",
 		"logo": "static/icons/ITDOG.png"
+	},  {
+		"name": "IP检测大师",
+		"href": "https://ip77.net/",
+		"desc": "一个专注于IP 地址查询的网站",
+		"logo": "static/icons/whoer.png"
 	},  {
 		"name": "IP地址和DNS地址检查",
 		"href": "https://whoer.net/zh",
