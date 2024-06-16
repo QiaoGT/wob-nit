@@ -536,7 +536,7 @@
 		"name": "IP检测大师",
 		"href": "https://ip77.net/",
 		"desc": "一个专注于IP 地址查询的网站",
-		"logo": "static/icons/whoer.png"
+		"logo": "static/icons/ip77.ico"
 	},  {
 		"name": "IP地址和DNS地址检查",
 		"href": "https://whoer.net/zh",
