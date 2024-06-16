@@ -298,6 +298,11 @@
 		"desc": "一站式数据解决方案，产品里免费工具蛮好用",
 		"logo": "static/icons/apeaksoft.ico"
 	},  {
+		"name": " NeuralWriter",
+		"href": "https://neuralwriter.com/zh/",
+		"desc": "AI 写作工具，可帮助用户轻松高效地生成高质量的内容，包括文章、社交媒体帖子等",
+		"logo": "static/icons/neuralwriter.png"
+	},  {
 		"name": "图片清晰度无损放大",
 		"href": "https://bigjpg.com/",
 		"desc": "AI智能无损放大图片，深度CNN技术，清晰不失真",
@@ -317,6 +322,11 @@
 		"href": "https://vocalremover.org/zh/",
 		"desc": "智能分离人声，轻松提取纯净伴奏，操作便捷高效",
 		"logo": "static/icons/vocalremover.png"
+	},  {
+		"name": "剪映",
+		"href": "https://www.capcut.cn/editor",
+		"desc": "免费的多合一视频编辑网站，提供高级功能、用户友好的界面和无缝协作工具",
+		"logo": "static/icons/capcut.png"
 	},  {
 		"name": "123apps",
 		"href": "https://123apps.com/cn/",
