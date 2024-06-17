@@ -393,6 +393,11 @@
 		"desc": "在线计算器为几何、代数和微积分提供交互式数学工具，使学习数学变得有趣和有趣",
 		"logo": "static/icons/CalculatorSuite.svg"
 	},  {
+		"name": "MP3Paw",
+		"href": "https://v4.mp3paw.link/en/",
+		"desc": "免费 MP3 下载",
+		"logo": "static/icons/MP3Paw.png"
+	},  {
 		"name": "音乐搜索器",
 		"href": "https://music.haom.ren/",
 		"desc": "多站合一，在线试听，轻松找到心仪歌曲",
