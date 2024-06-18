@@ -262,21 +262,6 @@
 		"href": "https://nav.swt-ai.com/",
 		"desc": "一个提供AI导航服务的网站",
 		"logo": "https://telegraph-image-8wn.pages.dev/file/328a842493b411977b5c7.gif"
-	}, {
-		"name": "云典AI智库",
-		"href": "https://cosoh.com/",
-		"desc": "AI知识平台，涵盖多领域AI工具与教程",
-		"logo": "static/icons/cosoh.png"
-	}, {
-		"name": "AI工具集",
-		"href": "https://ai-bot.cn/",
-		"desc": "700+国内外AI工具导航，一站式满足AI需求",
-		"logo": "static/icons/aibot.png"
-	}, {
-		"name": "AIGC工具",
-		"href": "https://www.aigc.cn/",
-		"desc": "一站式生成式AI平台，全品类AI应用尽在其中",
-		"logo": "static/icons/aigc.png"
 	}]
 }, {
 	"_id": "zxtool",
