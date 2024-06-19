@@ -83,15 +83,20 @@
 		"desc": "一个提供信息和资源的平台",
 		"logo": "static/icons/coze.png"
 	}, {
+		"name": "Copilot",
+		"href": "https://copilot.microsoft.com/",
+		"desc": "微软智能助手,提升效率，赋能未来工作与创意",
+		"logo": "static/icons/copilot.svg"
+	}, {
 		"name": "Gemini镜像",
 		"href": "https://gemini-4dx.pages.dev/",
 		"desc": "谷歌开发的多模态大模型,可以无缝地理解、操作和组合不同类型的信息",
 		"logo": "static/icons/geminipro.png"
 	}, {
-		"name": "Copilot",
-		"href": "https://copilot.microsoft.com/",
-		"desc": "微软智能助手,提升效率，赋能未来工作与创意",
-		"logo": "static/icons/copilot.svg"
+		"name": "BingAI",
+		"href": "https://dc.b1ng.chat/",
+		"desc": "Go Proxy BingAI，它允许你免登录与 AI 进行自由对话",
+		"logo": "static/icons/bingai.png"
 	}, {
 		"name": "ChatGPT镜像",
 		"href": "https://chat.freegpts.org/",
