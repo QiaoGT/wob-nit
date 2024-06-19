@@ -93,7 +93,7 @@
 		"desc": "谷歌开发的多模态大模型,可以无缝地理解、操作和组合不同类型的信息",
 		"logo": "static/icons/geminipro.png"
 	}, {
-		"name": "BingAI",
+		"name": "BingAI镜像",
 		"href": "https://dc.b1ng.chat/",
 		"desc": "Go Proxy BingAI，它允许你免登录与 AI 进行自由对话",
 		"logo": "static/icons/bingai.png"
