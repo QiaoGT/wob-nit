@@ -308,6 +308,11 @@
 		"desc": "一个开放纯粹的资源网站",
 		"logo": "static/icons/gitcafe.png"
 	},  {
+		"name": " Vidmore",
+		"href": "https://www.vidmore.com/zh/",
+		"desc": "最佳屏幕录像机、视频转换器和编辑器",
+		"logo": "static/icons/Vidmore.ico"
+	},  {
 		"name": " NeuralWriter",
 		"href": "https://neuralwriter.com/zh/",
 		"desc": "AI 写作工具，可帮助用户轻松高效地生成高质量的内容，包括文章、社交媒体帖子等",
