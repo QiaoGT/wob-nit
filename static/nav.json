@@ -844,7 +844,7 @@
 		"logo": "static/icons/acfun.png"
 	},{
 		"name": "Bilibili",
-		"href": "https://search.bilibili.com/",
+		"href": "https://www.bilibili.com/",
 		"desc": "视频分享平台，聚焦动漫、游戏、音乐、生活等内容",
 		"logo": "static/icons/bilibili.png"
 	},{
