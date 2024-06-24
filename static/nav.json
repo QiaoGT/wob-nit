@@ -423,6 +423,11 @@
 		"desc": "支持多清晰度，轻松下载YouTube视频",
 		"logo": "static/icons/youtube4kdownloader.png"
 	},  {
+		"name": "在线工具列表",
+		"href": "https://www.strerr.com/cn/tools.html",
+		"desc": "提供一系列在线工具和资源，包括文本分析、数据转换、密码生成等",
+		"logo": "static/icons/strerr.svg"
+	},  {
 		"name": "轻松传",
 		"href": "https://easychuan.cn/",
 		"desc": "跨设备传文件、文本、屏幕、视频，高效便捷",
