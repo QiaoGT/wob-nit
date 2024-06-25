@@ -111,7 +111,7 @@
 		"name": "文心一言",
 		"href": "https://yiyan.baidu.com/",
 		"desc": "百度推出的AI对话服务，提供问答和多轮对话能力",
-		"logo": "static/icons/Kimi.ai.png"
+		"logo": "static/icons/baiduAI.png"
 	}, {
 		"name": "Chat Blackbox",
 		"href": "https://www.blackbox.ai/",
