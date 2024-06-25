@@ -103,10 +103,15 @@
 		"desc": "免费AI聊天平台，提供交流和信息共享",
 		"logo": "static/icons/chatgptgx.png"
 	}, {
+		"name": "Kimi.AI",
+		"href": "https://kimi.moonshot.cn/",
+		"desc": "智能助手，提供搜索、趋势洞察、礼物策划和配餐营养等服务。",
+		"logo": "static/icons/chatgptgx.png"
+	}, {
 		"name": "文心一言",
 		"href": "https://yiyan.baidu.com/",
 		"desc": "百度推出的AI对话服务，提供问答和多轮对话能力",
-		"logo": "static/icons/yiyan.png"
+		"logo": "static/icons/Kimi.ai.png"
 	}, {
 		"name": "Chat Blackbox",
 		"href": "https://www.blackbox.ai/",
@@ -448,10 +453,15 @@
 		"desc": "丰富的扩展和应用资源，一键安装，方便快捷",
 		"logo": "static/icons/crxsoso.png"
 	},  {
+		"name": "缩啦",
+		"href": "https://3ii.cc/",
+		"desc": "丰富的扩展和应用资源，一键安装，方便快捷",
+		"logo": "static/icons/crxsoso.png"
+	},  {
 		"name": "OpenPoses",
 		"href": "https://openposes.com/",
-		"desc": "一个专注于人体姿态检测的网站",
-		"logo": "static/icons/OpenPoses.ico"
+		"desc": " 短链接生成网站",
+		"logo": "static/icons/3ii.ico"
 	},  {
 		"name": "Vmake",
 		"href": "https://vmake.ai/zh-CN/workspace",
