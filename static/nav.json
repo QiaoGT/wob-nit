@@ -343,6 +343,11 @@
 		"desc": "智能分离人声，轻松提取纯净伴奏，操作便捷高效",
 		"logo": "static/icons/vocalremover.png"
 	},  {
+		"name": "Clipchamp",
+		"href": "https://app.clipchamp.com/",
+		"desc": "一个全球性的在线视频编辑平台，总部位于澳大利亚布里斯班",
+		"logo": "static/icons/clipchamp.png"
+	},  {
 		"name": "剪映",
 		"href": "https://www.capcut.cn/editor",
 		"desc": "免费的多合一视频编辑网站，提供高级功能、用户友好的界面和无缝协作工具",
