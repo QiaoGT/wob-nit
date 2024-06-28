@@ -928,11 +928,6 @@
 		"desc": "编程技术学习平台，助力实现梦想，成就未来",
 		"logo": "static/icons/runoob.png"
 	},{
-		"name": "R2coding",
-		"href": "https://www.r2coding.com/",
-		"desc": "提供编程教程、代码实例和技术资源，帮助开发者提升编程技能",
-		"logo": "static/icons/r2coding.ico"
-	},{
 		"name": "考试酷",
 		"href": "https://www.examcoo.com/",
 		"desc": "一个永久免费的在线考试与电子作业系统平台，适用于学校、培训机构及企业。",
