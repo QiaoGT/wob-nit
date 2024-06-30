@@ -130,7 +130,7 @@
 	}, {
 		"name": "Screenshot to Code",
 		"href": "https://screenshottocode.com/",
-		"desc": "一个将网站截图实时转换为HTML/CSS或React/Vue/Bootstrap代码的AI网站",
+		"desc": "一个将网站截图实时转换为HTML/CSS代码的AI网站",
 		"logo": "static/icons/screenshottocode.png"
 	}, {
 		"name": "Tensor.Art",
