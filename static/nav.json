@@ -773,6 +773,11 @@
 		"desc": "微软的电子邮件，融合了通讯工具和办公应用等",
 		"logo": "static/icons/outlook.png"
 	},{
+		"name": "Proton Mail",
+		"href": "https://account.proton.me/login",
+		"desc": "提供安全、加密的电子邮件服务，保护用户隐私",
+		"logo": "static/icons/ProtonMail.svg"
+	},{
 		"name": "QQ邮箱",
 		"href": "https://wx.mail.qq.com/",
 		"desc": "腾讯公司的邮件服务，支持多种应用集成",
@@ -797,11 +802,6 @@
 		"href": "https://mailh.qiye.163.com/",
 		"desc": "高效、安全、稳定的特点，适用于各类企业用户",
 		"logo": "static/icons/mailhqiye163.png"
-	},{
-		"name": "腾讯企业邮箱",
-		"href": "https://exmail.qq.com/login",
-		"desc": "支持企业邮件管理和通信",
-		"logo": "static/icons/exmailqq.png"
 	}]
 }, {
 	"_id": "yule",
