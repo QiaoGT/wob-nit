@@ -128,6 +128,11 @@
 		"desc": "个性化AI，陪你度过每一天的每一刻",
 		"logo": "static/icons/characterAI.svg"
 	}, {
+		"name": "Screenshot to Code",
+		"href": "https://screenshottocode.com/",
+		"desc": "一个将网站截图实时转换为HTML/CSS或React/Vue/Bootstrap代码的AI网站",
+		"logo": "static/icons/screenshottocode.png"
+	}, {
 		"name": "Tensor.Art",
 		"href": "https://tensor.art/",
 		"desc": "一个免费在线图像生成器和模型托管网站，支持创作和AI工具",
