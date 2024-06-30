@@ -933,6 +933,11 @@
 		"desc": "编程技术学习平台，助力实现梦想，成就未来",
 		"logo": "static/icons/runoob.png"
 	},{
+		"name": "我要自学网",
+		"href": "https://www.51zxw.net/",
+		"desc": "提供丰富的视频教程，涵盖电脑、设计、动画、办公等领域",
+		"logo": "static/icons/51zxw.png"
+	},{
 		"name": "考试酷",
 		"href": "https://www.examcoo.com/",
 		"desc": "一个永久免费的在线考试与电子作业系统平台，适用于学校、培训机构及企业。",
