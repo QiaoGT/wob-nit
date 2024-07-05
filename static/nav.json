@@ -465,13 +465,13 @@
 	},  {
 		"name": "缩啦",
 		"href": "https://3ii.cc/",
-		"desc": "丰富的扩展和应用资源，一键安装，方便快捷",
-		"logo": "static/icons/crxsoso.png"
+		"desc": "短链接生成网站",
+		"logo": "static/icons/3ii.ico"
 	},  {
 		"name": "OpenPoses",
 		"href": "https://openposes.com/",
-		"desc": " 短链接生成网站",
-		"logo": "static/icons/3ii.ico"
+		"desc": "提供OpenPose骨架数据，用于控制图像生成模型的人体姿态",
+		"logo": "static/icons/OpenPoses.ico"
 	},  {
 		"name": "Vmake",
 		"href": "https://vmake.ai/zh-CN/workspace",
