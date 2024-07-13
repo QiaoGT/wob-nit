@@ -763,6 +763,11 @@
 	"classify": "邮箱工具",
 	"icon": "ti-email",
 	"sites": [{
+		"name": "Proton Mail",
+		"href": "https://account.proton.me/login",
+		"desc": "提供安全、加密的电子邮件服务，保护用户隐私",
+		"logo": "static/icons/ProtonMail.svg"
+	},{
 		"name": "Gmail",
 		"href": "https://mail.google.com/",
 		"desc": "谷歌的安全、私密、无广告的电子邮件交流平台。",
@@ -772,11 +777,6 @@
 		"href": "https://outlook.live.com/",
 		"desc": "微软的电子邮件，融合了通讯工具和办公应用等",
 		"logo": "static/icons/outlook.png"
-	},{
-		"name": "Proton Mail",
-		"href": "https://account.proton.me/login",
-		"desc": "提供安全、加密的电子邮件服务，保护用户隐私",
-		"logo": "static/icons/ProtonMail.svg"
 	},{
 		"name": "QQ邮箱",
 		"href": "https://wx.mail.qq.com/",
