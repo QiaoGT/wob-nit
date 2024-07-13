@@ -838,6 +838,11 @@
 		"desc": "全球艺术社区，用户可发布插画、漫画和小说",
 		"logo": "static/icons/Pixiv.png"
 	},{
+		"name": "ALPHA CODERS",
+		"href": "https://alphacoders.com/",
+		"desc": "提供高清壁纸和桌面背景，专注于动漫、游戏和电影主题",
+		"logo": "static/icons/alphacoders.png"
+	},{
 		"name": "5sing音乐",
 		"href": "https://5sing.kugou.com/",
 		"desc": "原创音乐分享平台，汇聚佳作，共赏音乐之美",
