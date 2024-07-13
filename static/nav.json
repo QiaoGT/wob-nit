@@ -813,6 +813,21 @@
 		"desc": "轻小说阅读创作平台，汇聚佳作，发掘创意，畅享故事乐趣",
 		"logo": "static/icons/linovel.jpg"
 	},{
+		"name": "轻小说文库",
+		"href": "https://lnovel.org/books",
+		"desc": "一个在线"轻小说"阅读平台，提供各类电子书和小说资源",
+		"logo": "static/icons/orgbooks.png"
+	},{
+		"name": "哔哩轻小说",
+		"href": "https://m.wenkuchina.com/",
+		"desc": "提供日本动漫轻小说在线阅读和创作的平台，拥有丰富的轻小说资源和作品推荐",
+		"logo": "static/icons/wenkuchina.png"
+	},{
+		"name": "萌娘百科",
+		"href": "https://mzh.moegirl.org.cn/",
+		"desc": "提供日本动漫轻小说在线阅读和创作的平台，拥有丰富的轻小说资源和作品推荐",
+		"logo": "static/icons/moegirl.ico"
+	},{
 		"name": "看漫画",
 		"href": "https://www.kanman.com/",
 		"desc": "免费在线漫画平台，涵盖国产、日本、韩国及欧美漫画",
