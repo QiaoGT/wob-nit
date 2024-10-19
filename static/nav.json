@@ -284,7 +284,7 @@
 	"icon": "ti-bolt",
 	"sites": [{
 		"name": "Online Reader",
-		"href": "https://cn..com/",
+		"href": "https://cn.online-reader.com/",
 		"desc": "在线文件阅读器，支持50多种格式，包括书籍、办公文件、音视频、图片等",
 		"logo": "static/icons/online-reader.png"
 	},  {
