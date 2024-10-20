@@ -668,7 +668,7 @@
 	"classify": "云盘储存",
 	"icon": "ti-cloud",
 	"sites": [{
-		"name": "先锋巴巴",
+		"name": "~先锋巴巴~",
 		"href": "https://88.xfshangan.cn:88/register?from=eyJpdiI6IjhSdkJOWnJNWEpHcmJ1Y2EyWXpNWUE9PSIsInZhbHVlIjoidGpDOFdSckRtSzN0TnYvOWxodmZqUT09IiwibWFjIjoiYWEyZjM2MjlhNjc4YjQ5NjRmODk3NjgzMWU1NWE4MTYzMWM4ODFmNDkzOWFiNTg0NmE0ZTZiMWJlNmEwZmY2ZCIsInRhZyI6IiJ9&t=10086255",
 		"desc": "普通用户4.88T存储空间，下载速度尚可",
 		"logo": "static/icons/88xfshangan.png"
