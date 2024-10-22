@@ -433,6 +433,11 @@
 		"desc": "一键总结B站、YouTube等，免费试用，便捷微信助理",
 		"logo": "static/icons/jimmylv.png"
 	},  {
+		"name": "Youtube视频在线下载",
+		"href": "https://addyoutube.com/",
+		"desc": "在线轻松下载YouTube视频",
+		"logo": "static/icons/addyoutube.png"
+	},  {
 		"name": "免费在线视频下载器",
 		"href": "https://youtube4kdownloader.com/zh108/",
 		"desc": "支持多清晰度，轻松下载YouTube视频",
