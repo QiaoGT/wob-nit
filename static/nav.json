@@ -84,7 +84,7 @@
 		"logo": "static/icons/coze.png"
 	}, {
 		"name": "Gemini",
-		"href": "https://gemini.google.com/app",
+		"href": "https://gemini.google.com",
 		"desc": "Google开发的对话式AI、，给用户提供个性化和多模态的体验。",
 		"logo": "static/icons/geminipro.png"
 	}, {
