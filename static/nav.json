@@ -323,6 +323,11 @@
 		"desc": "一个开放纯粹的资源网站",
 		"logo": "static/icons/gitcafe.png"
 	},  {
+		"name": "以图搜番",
+		"href": "https://trace.moe/",
+		"desc": "通过上传动漫截图，追溯并识别动漫场景来源",
+		"logo": "static/icons/trace.ico"
+	},  {
 		"name": " Vidmore",
 		"href": "https://www.vidmore.com/zh/",
 		"desc": "一个视频转换器和编辑器，产品展示 里的免费工具蛮好用",
@@ -637,6 +642,11 @@
 		"href": "https://lookup.icann.org/zh",
 		"desc": "权威域名注册信息数据查询网站，信息全面可靠",
 		"logo": "static/icons/icann.ico"
+	},  {
+		"name": "在线查询网",
+		"href": "https://www.ip138.com/",
+		"desc": "提供IP地址查询、手机号码、身份证归属地查询等信息服务",
+		"logo": "static/icons/ip138.ico"
 	},  {
 		"name": "身份证生成器",
 		"href": "https://www.dizhishengcheng.com/",
