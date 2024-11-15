@@ -444,7 +444,7 @@
 		"logo": "static/icons/unlockmusic.png"
 	},  {
 		"name": "音乐解锁",
-		"href": "http://unlock.music.hi.cn/",
+		"href": "https://wob-music-mnlock.pages.dev/",
 		"desc": "解锁各大平台音乐，畅享无损音质下载体验",
 		"logo": "static/icons/smusiczx.png"
 	},  {
