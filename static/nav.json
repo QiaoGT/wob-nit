@@ -93,11 +93,6 @@
 		"desc": "微软智能助手,提升效率，赋能未来工作与创意",
 		"logo": "static/icons/copilot.svg"
 	}, {
-		"name": "ChatGPT 镜像",
-		"href": "https://chat.freegpts.org/",
-		"desc": "免费AI聊天平台，提供交流和信息共享",
-		"logo": "static/icons/chatgptgx.png"
-	}, {
 		"name": "Gemini 镜像",
 		"href": "https://gemini-4dx.pages.dev/",
 		"desc": "谷歌开发的多模态大模型,可以无缝地理解、操作和组合不同类型的信息",
@@ -179,7 +174,7 @@
 		"logo": "static/icons/aicnn.png"
 	}, {
 		"name": "AI提示语",
-		"href": "https://www.tishi.top/",
+		"href": "https://www.tishi.top/chat/",
 		"desc": "一站式AI集成平台，文本声音图像视频代码全覆盖",
 		"logo": "static/icons/tishi.png"
 	}, {
@@ -207,11 +202,6 @@
 		"href": "https://aichat.kqbusinessai.com",
 		"desc": "AI商务聊天：提供商务咨询和AI聊天服务的平台",
 		"logo": "static/icons/BusinessAI.png"
-	}, {
-		"name": "echo ai",
-		"href": "https://echoai.cc/",
-		"desc": "一个提供AI绘画服务的网站以及绘画内容展示",
-		"logo": "static/icons/echoai.webp"
 	}, {
 		"name": "RecraftAI",
 		"href": "https://app.recraft.ai/projects",
@@ -282,11 +272,6 @@
 		"href": "https://sharedchat.cn/",
 		"desc": "一个提供共享信息和讨论的在线交流平台",
 		"logo": "https://telegraph-image-8wn.pages.dev/file/b602ca2639a3a528cb73c.gif"
-	}, {
-		"name": "SWT-AI导航",
-		"href": "https://nav.swt-ai.com/",
-		"desc": "一个提供AI导航服务的网站",
-		"logo": "https://telegraph-image-8wn.pages.dev/file/328a842493b411977b5c7.gif"
 	}]
 }, {
 	"_id": "zxtool",
