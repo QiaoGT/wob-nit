@@ -333,6 +333,11 @@
 		"desc": "AI 写作工具，可帮助用户轻松高效地生成高质量的内容，包括文章、社交媒体帖子等",
 		"logo": "static/icons/neuralwriter.png"
 	},  {
+		"name": "免费图片放大到 8 倍",
+		"href": "https://www.anyrec.io/zh/image-upscaler/",
+		"desc": "免费在线放大图像至8倍，支持多种格式",
+		"logo": "static/icons/imageupscaler.ico"
+	},  {
 		"name": "图片清晰度无损放大",
 		"href": "https://bigjpg.com/",
 		"desc": "AI智能无损放大图片，深度CNN技术，清晰不失真",
@@ -357,6 +362,11 @@
 		"href": "https://vocalremover.org/zh/",
 		"desc": "智能分离人声，轻松提取纯净伴奏，操作便捷高效",
 		"logo": "static/icons/vocalremover.png"
+	},  {
+		"name": "免费音乐视频制作器",
+		"href": "https://musicvid.org/",
+		"desc": "一个提供免费在线可视化制作服务的平台",
+		"logo": "static/icons/musicvid.png"
 	},  {
 		"name": "Clipchamp",
 		"href": "https://app.clipchamp.com/",
@@ -383,6 +393,11 @@
 		"desc": "高效文件转换器，支持多种格式转换",
 		"logo": "static/icons/Convertio.png"
 	},  {
+		"name": "在线文件批量重命名工具",
+		"href": "https://webrename.cn/",
+		"desc": "一个免费的在线文件批量重命名工具",
+		"logo": "static/icons/webrename.png"
+	},  {
 		"name": "FreeCompress",
 		"href": "https://freecompress.com/",
 		"desc": "一个免费的在线压缩工具，可以批量压缩图片、文档、音频、视频等文件，方便用户存储和分享",
@@ -402,6 +417,11 @@
 		"href": "https://github.dev/github/dev",
 		"desc": "Visual Studio Code在线使用",
 		"logo": "static/icons/VisualStudioCode.png"
+	},  {
+		"name": "免费logo在线制作",
+		"href": "https://webrename.cn/",
+		"desc": "在线AI智能LOGO设计平台，快速创建免费原创LOGO。",
+		"logo": "static/icons/uugai.ico"
 	},  {
 		"name": "思绪思维导图",
 		"href": "https://mind-map-9oo.pages.dev/#/",
@@ -512,6 +532,11 @@
 		"href": "https://www.officeplus.cn/",
 		"desc": "微软官方Office模板服务平台，ppt模板、工作总结、求职简历等模板",
 		"logo": "static/icons/OfficePlus.svg"
+	},  {
+		"name": "字体(𝓬𝓸𝓹𝔂 𝕒𝕟𝕕 𝓅𝒶𝓈𝓉𝑒) ",
+		"href": "https://igfonts.io/",
+		"desc": "在线生成Instagram个性字体，复制粘贴到个人简介",
+		"logo": "static/icons/igfonts.ico"
 	},  {
 		"name": "网名生成器",
 		"href": "https://www.qmsjmfb.com/",
