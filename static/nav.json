@@ -123,15 +123,15 @@
 		"desc": "智能代码生成，代码交流，代码搜索一站式平台",
 		"logo": "static/icons/blackbox.png"
 	}, {
-		"name": "BusinessAI",
-		"href": "https://aichat.kqbusinessai.com",
-		"desc": "AI商务聊天：提供商务咨询和AI聊天服务的平台",
-		"logo": "static/icons/BusinessAI.png"
-	}, {
 		"name": "characterAI",
 		"href": "https://character.ai/",
 		"desc": "个性化AI，陪你度过每一天的每一刻",
 		"logo": "static/icons/characterAI.svg"
+	}, {
+		"name": "AI Character Chat",
+		"href": "https://perchance.org/ai-character-chat",
+		"desc": "AI角色聊天允许用户与虚拟角色进行互动，创建个性化对话体验",
+		"logo": "static/icons/aicharacter.ico"
 	}, {
 		"name": "Screenshot to Code",
 		"href": "https://screenshottocode.com/",
@@ -202,6 +202,11 @@
 		"href": "https://www.acgnai.art/create/minimalism",
 		"desc": "一个AI绘画创作平台，专注于极简主义风格的艺术作品生成",
 		"logo": "static/icons/acgnai.png"
+	}, {
+		"name": "BusinessAI",
+		"href": "https://aichat.kqbusinessai.com",
+		"desc": "AI商务聊天：提供商务咨询和AI聊天服务的平台",
+		"logo": "static/icons/BusinessAI.png"
 	}, {
 		"name": "echo ai",
 		"href": "https://echoai.cc/",
