@@ -668,6 +668,11 @@
 		"desc": "无需提供真实号码保护隐私,用于验证、注册和接收一次性密码",
 		"logo": "static/icons/receiveasmsonline.svg"
 	},  {
+		"name": "5sim",
+		"href": "https://5sim.net/zh",
+		"desc": "提供一次性虚拟手机号码，可用于接收临时短信验证",
+		"logo": "static/icons/5sim.png"
+	},  {
 		"name": "SMS-Activate",
 		"href": "https://sms-activate.org/cn",
 		"desc": "提供一次性虚拟电话号码，保护您的隐私并绕过双重身份验证",
