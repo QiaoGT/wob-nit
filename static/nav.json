@@ -338,6 +338,11 @@
 		"desc": "AI智能无损放大图片，深度CNN技术，清晰不失真",
 		"logo": "static/icons/bigjpg.ico"
 	},  {
+		"name": "AI 图像放大",
+		"href": "https://remove.photos/zh-cn/super-resolution",
+		"desc": "RemovePhotos提供AI图片放大器，在线免费放大图片",
+		"logo": "static/icons/removephotos.png"
+	},  {
 		"name": "图像背景删除",
 		"href": "https://zh.clippingmagic.com/",
 		"desc": "智能擦除图片多余内容，填补背景，去水印，高效便捷",
