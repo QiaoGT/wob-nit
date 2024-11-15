@@ -623,6 +623,11 @@
 		"desc": "在线ping、IP检测、网站测速、DNS查询、HTTP测速、API测速、路由追踪、在线tcping、在线MTR",
 		"logo": "static/icons/ITDOG.png"
 	},  {
+		"name": "WhatismyIP",
+		"href": "https://www.whatismyip.net/zh/",
+		"desc": "查询IP地址详细信息，包括地理位置和ISP",
+		"logo": "static/icons/whatismyip.ico"
+	},  {
 		"name": "IP检测大师",
 		"href": "https://ip77.net/",
 		"desc": "一个专注于IP 地址查询的网站",
