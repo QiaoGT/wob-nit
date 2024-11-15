@@ -198,11 +198,6 @@
 		"desc": "一个AI绘画创作平台，专注于极简主义风格的艺术作品生成",
 		"logo": "static/icons/acgnai.png"
 	}, {
-		"name": "BusinessAI",
-		"href": "https://aichat.kqbusinessai.com",
-		"desc": "AI商务聊天：提供商务咨询和AI聊天服务的平台",
-		"logo": "static/icons/BusinessAI.png"
-	}, {
 		"name": "RecraftAI",
 		"href": "https://app.recraft.ai/projects",
 		"desc": "AI图像生成器，轻松生成多样艺术风格的AI图像",
