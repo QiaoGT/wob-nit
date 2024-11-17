@@ -608,16 +608,6 @@
 		"desc": "查询IP地址详细信息，包括地理位置和ISP",
 		"logo": "static/icons/whatismyip.ico"
 	},  {
-		"name": "ITDOG",
-		"href": "https://www.itdog.cn/",
-		"desc": "在线ping、IP检测、网站测速、DNS查询、HTTP测速、API测速、路由追踪、在线tcping、在线MTR",
-		"logo": "static/icons/ITDOG.png"
-	},  {
-		"name": "IP检测大师",
-		"href": "https://ip77.net/",
-		"desc": "一个专注于IP 地址查询的网站",
-		"logo": "static/icons/ip77.ico"
-	},  {
 		"name": "IP地址和DNS地址检查",
 		"href": "https://whoer.net/zh",
 		"desc": "IP与DNS查询工具，检测匿名性与网络安全",
@@ -632,6 +622,16 @@
 		"href": "https://lookup.icann.org/zh",
 		"desc": "权威域名注册信息数据查询网站，信息全面可靠",
 		"logo": "static/icons/icann.ico"
+	},  {
+		"name": "ITDOG",
+		"href": "https://www.itdog.cn/",
+		"desc": "在线ping、IP检测、网站测速、DNS查询、HTTP测速、API测速、路由追踪、在线tcping、在线MTR",
+		"logo": "static/icons/ITDOG.png"
+	},  {
+		"name": "IP检测大师",
+		"href": "https://ip77.net/",
+		"desc": "一个专注于IP 地址查询的网站",
+		"logo": "static/icons/ip77.ico"
 	},  {
 		"name": "在线查询网",
 		"href": "https://www.ip138.com/",
