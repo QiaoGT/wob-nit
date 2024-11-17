@@ -603,15 +603,15 @@
 		"desc": "病毒文件检查,用于检测文件和分析恶意软件",
 		"logo": "static/icons/kaspersky.ico"
 	},  {
+		"name": "WhatismyIP",
+		"href": "https://www.whatismyip.net/",
+		"desc": "查询IP地址详细信息，包括地理位置和ISP",
+		"logo": "static/icons/whatismyip.ico"
+	},  {
 		"name": "ITDOG",
 		"href": "https://www.itdog.cn/",
 		"desc": "在线ping、IP检测、网站测速、DNS查询、HTTP测速、API测速、路由追踪、在线tcping、在线MTR",
 		"logo": "static/icons/ITDOG.png"
-	},  {
-		"name": "WhatismyIP",
-		"href": "https://www.whatismyip.net/zh/",
-		"desc": "查询IP地址详细信息，包括地理位置和ISP",
-		"logo": "static/icons/whatismyip.ico"
 	},  {
 		"name": "IP检测大师",
 		"href": "https://ip77.net/",
