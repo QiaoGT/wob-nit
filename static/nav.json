@@ -103,16 +103,6 @@
 		"desc": "Go Proxy BingAI，它允许你免登录与 AI 进行自由对话",
 		"logo": "static/icons/bingai.png"
 	}, {
-		"name": "Kimi.AI",
-		"href": "https://kimi.moonshot.cn/",
-		"desc": "智能助手，提供搜索、趋势洞察、礼物策划和配餐营养等服务。",
-		"logo": "static/icons/kimiai.png"
-	}, {
-		"name": "文心一言",
-		"href": "https://yiyan.baidu.com/",
-		"desc": "百度推出的AI对话服务，提供问答和多轮对话能力",
-		"logo": "static/icons/baiduAI.png"
-	}, {
 		"name": "Chat Blackbox",
 		"href": "https://www.blackbox.ai/",
 		"desc": "智能代码生成，代码交流，代码搜索一站式平台",
@@ -132,6 +122,16 @@
 		"href": "https://screenshottocode.com/",
 		"desc": "一个将网站截图实时转换为HTML/CSS代码的AI网站",
 		"logo": "static/icons/screenshottocode.png"
+	}, {
+		"name": "Kimi.AI",
+		"href": "https://kimi.moonshot.cn/",
+		"desc": "智能助手，提供搜索、趋势洞察、礼物策划和配餐营养等服务。",
+		"logo": "static/icons/kimiai.png"
+	}, {
+		"name": "文心一言",
+		"href": "https://yiyan.baidu.com/",
+		"desc": "百度推出的AI对话服务，提供问答和多轮对话能力",
+		"logo": "static/icons/baiduAI.png"
 	}, {
 		"name": "Tensor.Art",
 		"href": "https://tensor.art/",
