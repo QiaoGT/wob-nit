@@ -478,9 +478,14 @@
 		"desc": "跨设备传文件、文本、屏幕、视频，高效便捷",
 		"logo": "static/icons/easychuan.png"
 	},  {
+		"name": "Sanyue ImgHub",
+		"href": "https://wob-cf-imgbed.pages.dev/",
+		"desc": "图像分享平台，用户可以上传图像并生成唯一链接分享,上传限制20MB",
+		"logo": "static/icons/telegraphimage.ico"
+	},  {
 		"name": "Telegraph-image",
-		"href": "https://telegraph-image-8wn.pages.dev/",
-		"desc": "一个图像分享平台，用户可以上传图像并生成唯一链接分享",
+		"href": "https://wob-tg-image.pages.dev/",
+		"desc": "一个图像分享平台，用户可以上传图像并生成唯一链接分享,上传限制5MB",
 		"logo": "static/icons/telegraphimage.ico"
 	},  {
 		"name": "磁力种子互转",
