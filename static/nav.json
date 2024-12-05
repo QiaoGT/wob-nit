@@ -480,7 +480,7 @@
 	},  {
 		"name": "Sanyue ImgHub",
 		"href": "https://wob-cf-imgbed.pages.dev/",
-		"desc": "图像分享平台，用户可以上传图像并生成唯一链接分享,上传限制20MB",
+		"desc": "图像分享平台，用户可以上传图像并生成链接分享,上传限制20MB",
 		"logo": "static/icons/SanyueImgHub.ico"
 	},  {
 		"name": "Telegraph-image",
