@@ -603,6 +603,11 @@
 		"desc": "直观对比字节跳动、腾讯、阿里职级体系",
 		"logo": "static/icons/duibiao.png"
 	},  {
+		"name": "VirusTotal",
+		"href": "https://www.virustotal.com/gui/home/upload",
+		"desc": "在线检测工具，检测潜在的恶意软件和安全威胁",
+		"logo": "static/icons/virustotal.ico"
+	},  {
 		"name": "Kaspersky",
 		"href": "https://opentip.kaspersky.com/",
 		"desc": "病毒文件检查,用于检测文件和分析恶意软件",
