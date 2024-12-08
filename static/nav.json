@@ -485,7 +485,7 @@
 	},  {
 		"name": "Telegraph-image",
 		"href": "https://wob-tg-image.pages.dev/",
-		"desc": "图像分享平台，用户可以上传图像并生成唯一链接分享,上传限制5MB",
+		"desc": "图像分享平台，用户可以上传图像并生成唯一链接,上传限制5MB",
 		"logo": "static/icons/telegraphimage.ico"
 	},  {
 		"name": "磁力种子互转",
