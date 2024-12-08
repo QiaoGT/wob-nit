@@ -488,6 +488,11 @@
 		"desc": "支持多清晰度，轻松下载YouTube视频",
 		"logo": "static/icons/youtube4kdownloader.png"
 	},  {
+		"name": "字幕在线下载",
+		"href": "https://downsub.com/sites/",
+		"desc": "免费在线工具，支持从YouTube等网站下载字幕，格式多样",
+		"logo": "static/icons/downsub.ico"
+	},  {
 		"name": "在线工具列表",
 		"href": "https://www.strerr.com/cn/tools.html",
 		"desc": "提供一系列在线工具和资源，包括文本分析、数据转换、密码生成等",
