@@ -11,7 +11,7 @@
 		"name": "Youtube",
 		"href": "https://www.youtube.com/",
 		"desc": "全球最大的视频网站，提供海量视频内容",
-		"logo": "static/icons/youtube.ico"
+		"logo": "static/icons/youtube.png"
 	}, {
 		"name": "维基百科",
 		"href": "https://zh.wikipedia.org/",
