@@ -153,6 +153,11 @@
 		"desc": "智能视频生成，创意无限，轻松实现视频梦想",
 		"logo": "static/icons/haiper.png"
 	}, {
+		"name": "RunDiffusion",
+		"href": "https://rundiffusion.com/",
+		"desc": "云端AI图像生成平台，支持多种工具，简化高质量艺术创作",
+		"logo": "static/icons/rundiffusion.ico"
+	}, {
 		"name": "HeyGen - AI",
 		"href": "https://app.heygen.com/",
 		"desc": "提供AI虚拟数字人生成，艺术和创意内容的在线平台",
@@ -172,11 +177,6 @@
 		"href": "https://geospy.ai/",
 		"desc": "将像素转化为智能，提供精准的地理定位与分析服务",
 		"logo": "static/icons/geospy.png"
-	}, {
-		"name": "RunDiffusion",
-		"href": "https://rundiffusion.com/",
-		"desc": "云端AI图像生成平台，支持多种工具，简化高质量艺术创作",
-		"logo": "static/icons/rundiffusion.ico"
 	}, {
 		"name": "Kimi.AI",
 		"href": "https://kimi.moonshot.cn/",
