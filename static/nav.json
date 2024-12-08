@@ -6,32 +6,32 @@
 		"name": "谷歌",
 		"href": "https://www.google.com/",
 		"desc": "全球最大的搜索引擎公司，提供精准的搜索结果",
-		"logo": "iconsstatic/icons/google.png"
+		"logo": "iconsstatic/icons/google.ico"
 	}, {
 		"name": "Youtube",
 		"href": "https://www.youtube.com/",
 		"desc": "全球最大的视频网站，提供海量视频内容",
-		"logo": "iconsstatic/icons/youtube.png"
+		"logo": "iconsstatic/icons/youtube.ico"
 	}, {
 		"name": "维基百科",
 		"href": "https://zh.wikipedia.org/",
 		"desc": "自由、开放的网络百科全书，为用户提供多领域的信息和知识",
-		"logo": "iconsstatic/icons/wikipedia.png"
+		"logo": "iconsstatic/icons/wikipedia.ico"
 	}, {
 		"name": "Z-Library",
 		"href": "https://zh.z-lib.gs/",
 		"desc": "一个提供免费电子书和学术论文下载的网站",
-		"logo": "iconsstatic/icons/z-library.png"
+		"logo": "iconsstatic/icons/z-lib.ico"
 	}, {
 		"name": "Github",
 		"href": "https://github.com/",
 		"desc": "一个面向开发者的代码托管平台",
-		"logo": "iconsstatic/icons/github.png"
+		"logo": "iconsstatic/icons/github.ico"
 	}, {
 		"name": "ChatGPT",
 		"href": "https://chatgpt.com/",
 		"desc": "OpenAI开发的聊天机器人，能进行自然语言处理和对话交流",
-		"logo": "iconsstatic/icons/chatgpt.png"
+		"logo": "iconsstatic/icons/chatgpt.ico"
 	}, {
 		"name": "百度AI",
 		"href": "https://chat.baidu.com/",
