@@ -123,10 +123,65 @@
 		"desc": "一个将网站截图实时转换为HTML/CSS代码的AI网站",
 		"logo": "static/icons/screenshottocode.png"
 	}, {
+		"name": "VIGGLE",
+		"href": "https://viggle.ai/",
+		"desc": "一个内容生成和提供人工智能驱动的解决方案的平台",
+		"logo": "static/icons/viggle.png"
+	}, {
+		"name": "Luma Dream Machine",
+		"href": "https://lumalabs.ai/dream-machine",
+		"desc": "使用AI从用户输入中生成令人惊叹的超现实艺术，创造出独特而迷人的视觉效果",
+		"logo": "static/icons/lumalabs.svg"
+	}, {
+		"name": "Pika",
+		"href": "https://pika.art/",
+		"desc": "一个为创作者提供2D实时动画表现技术的网站",
+		"logo": "static/icons/Pika.ico"
+	}, {
+		"name": "GenmoAI",
+		"href": "https://www.genmo.ai/",
+		"desc": "AI创意平台，轻松制作视频与图像",
+		"logo": "static/icons/Genmo.png"
+	}, {
+		"name": "Haiper-AI Video Generator",
+		"href": "https://haiper.ai/explore",
+		"desc": "智能视频生成，创意无限，轻松实现视频梦想",
+		"logo": "static/icons/haiper.png"
+	}, {
+		"name": "HeyGen - AI",
+		"href": "https://app.heygen.com/",
+		"desc": "提供AI虚拟数字人生成，艺术和创意内容的在线平台",
+		"logo": "static/icons/HeyGen.png"
+	}, {
+		"name": "D-ID",
+		"href": "https://studio.d-id.com/",
+		"desc": "提供AI虚拟数字人生成，艺术和创意内容的在线平台",
+		"logo": "static/icons/D-ID.png"
+	}, {
+		"name": "Suno",
+		"href": "https://suno.com/",
+		"desc": "AI音乐创作平台，轻松实现个性化音乐创作与分享",
+		"logo": "static/icons/Suno.png"
+	}, {
+		"name": "GeoSpy Pro",
+		"href": "https://geospy.ai/",
+		"desc": "将像素转化为智能，提供精准的地理定位与分析服务",
+		"logo": "static/icons/geospy.png"
+	}, {
+		"name": "RunDiffusion",
+		"href": "https://rundiffusion.com/",
+		"desc": "云端AI图像生成平台，支持多种工具，简化高质量艺术创作",
+		"logo": "static/icons/rundiffusion.ico"
+	}, {
 		"name": "Kimi.AI",
 		"href": "https://kimi.moonshot.cn/",
 		"desc": "智能助手，提供搜索、趋势洞察、礼物策划和配餐营养等服务。",
 		"logo": "static/icons/kimiai.png"
+	}, {
+		"name": "海螺AI",
+		"href": "https://hailuoai.com/",
+		"desc": "智能助手，提供搜索、趋势洞察、礼物策划和配餐营养等服务。",
+		"logo": "static/icons/hailuoai.ico"
 	}, {
 		"name": "文心一言",
 		"href": "https://yiyan.baidu.com/",
@@ -217,51 +272,6 @@
 		"href": "https://www.aippt.cn/workspace",
 		"desc": "一键生成高质量PPT，让演示更专业吸引",
 		"logo": "static/icons/aippt.png"
-	}, {
-		"name": "VIGGLE",
-		"href": "https://viggle.ai/",
-		"desc": "一个内容生成和提供人工智能驱动的解决方案的平台",
-		"logo": "static/icons/viggle.png"
-	}, {
-		"name": "Luma Dream Machine",
-		"href": "https://lumalabs.ai/dream-machine",
-		"desc": "使用AI从用户输入中生成令人惊叹的超现实艺术，创造出独特而迷人的视觉效果",
-		"logo": "static/icons/lumalabs.svg"
-	}, {
-		"name": "Pika",
-		"href": "https://pika.art/",
-		"desc": "一个为创作者提供2D实时动画表现技术的网站",
-		"logo": "static/icons/Pika.ico"
-	}, {
-		"name": "GenmoAI",
-		"href": "https://www.genmo.ai/",
-		"desc": "AI创意平台，轻松制作视频与图像",
-		"logo": "static/icons/Genmo.png"
-	}, {
-		"name": "Haiper-AI Video Generator",
-		"href": "https://haiper.ai/explore",
-		"desc": "智能视频生成，创意无限，轻松实现视频梦想",
-		"logo": "static/icons/haiper.png"
-	}, {
-		"name": "HeyGen - AI",
-		"href": "https://app.heygen.com/",
-		"desc": "提供AI虚拟数字人生成，艺术和创意内容的在线平台",
-		"logo": "static/icons/HeyGen.png"
-	}, {
-		"name": "D-ID",
-		"href": "https://studio.d-id.com/",
-		"desc": "提供AI虚拟数字人生成，艺术和创意内容的在线平台",
-		"logo": "static/icons/D-ID.png"
-	}, {
-		"name": "Suno",
-		"href": "https://suno.com/",
-		"desc": "AI音乐创作平台，轻松实现个性化音乐创作与分享",
-		"logo": "static/icons/Suno.png"
-	}, {
-		"name": "GeoSpy Pro",
-		"href": "https://geospy.ai/",
-		"desc": "将像素转化为智能，提供精准的地理定位与分析服务",
-		"logo": "static/icons/geospy.png"
 	}, {
 		"name": "RawChat公益站点",
 		"href": "https://sharedchat.cn/",
