@@ -1,5 +1,5 @@
 [{
-	"_id": "ruanjian",
+	"_id": "tuijian",
 	"classify": "常用推荐",
 	"icon": "ti-star",
 	"sites": [{
@@ -849,7 +849,7 @@
 		"logo": "static/icons/baidupan.ico"
 	}]
 },  { 
-	"_id": "daohang",
+	"_id": "youxiang",
 	"classify": "邮箱工具",
 	"icon": "ti-email",
 	"sites": [{
