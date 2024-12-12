@@ -1,11 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta name="description" content="智桥网址导航"/>
+    <meta name="description" content="智桥网址导航" />
     <link rel="shortcut icon" href="static/logo.svg" type="image/Mobile phone number">
     <meta name="keywords" content="网址导航" />
 	<!-- <meta http-equiv='Content-Security-Policy' content='block-all-mixed-content'>  -->
@@ -19,23 +18,20 @@
     <div class="container" id="container">
         <aside class="left-bar" id="leftBar">
             <div class="big-logo">
-                <img src = "https://telegraph-image-8wn.pages.dev/file/cdb099d52e61838671058.gif">
+                <img src="https://telegraph-image-8wn.pages.dev/file/cdb099d52e61838671058.gif" 
+                     style="pointer-events: none; user-select: none;" 
+                     ondragstart="return false;" 
+                     onmousedown="return false;">
             </div>
-            <div class = "">
+            <div class="">
                 <p></p> 
             </div>
             <div class="title">
                 <p>WOB 网址导航</p>
             </div>
             <nav class="nav">
-
                 <ul class="nav-item" id="navItem">
                 </ul>
-<!-- 	        <ul class="nav-item" id="navItem">
-                    <li><a href="#">Link 1</a></li>
-                    <li><a href="#">Link 2</a></li>
-                    <!-- 添加更多链接 -->
-                </ul> -->
                 <div class="item comment">
 					<p class="icp"><a href="https://wob-nit.pages.dev/">智桥导航网站</a></p>
                 </div>
@@ -53,17 +49,20 @@
         				<i class="ti-announcement"></i> Hi，欢迎你的到来~~ 🎉
     				    </p>
     				    <div style="text-align: center;">
-        				<img src="https://wioscat.us.kg/wob21/102" style="max-width: 300px; height: auto;">
+        				    <img src="https://wioscat.us.kg/wob21/102" 
+                                 style="max-width: 300px; height: auto; pointer-events: none; user-select: none;" 
+                                 ondragstart="return false;" 
+                                 onmousedown="return false;">
     				    </div>
 				</div>
 
-		<footer class="footer">
+			<footer class="footer">
     		    <div class="copyright">
-        		<div>
+					<div>
             		    <p style="text-align: center;">Powered by <a href="https://wobshare.us.kg/" target="_blank">智桥</a> © 2023-2024</p>
-        		</div>
+					</div>
     		    </div>
-		</footer>
+			</footer>
                 <div id="fixedBar">
                     <svg class="Zi Zi--BackToTop" title="回到顶部" fill="currentColor" viewBox="0 0 24 24" width="24" height="24">
                         <path d="M16.036 19.59a1 1 0 0 1-.997.995H9.032a.996.996 0 0 1-.997-.996v-7.005H5.03c-1.1 0-1.36-.633-.578-1.416L11.33 4.29a1.003 1.003 0 0 1 1.412 0l6.878 6.88c.782.78.523 1.415-.58 1.415h-3.004v7.005z"></path>
@@ -71,11 +70,17 @@
                 </div>
             </div>
         </section>
-        <!-- <script type="text/javascript" src="static/jquery.js"></script> -->
         <script src="static/jquery.js"></script>
 		<script src="static/nav.js"></script>
-
-        </div>
+        <script>
+          // 防止所有图片被拖拽
+          document.addEventListener('dragstart', (event) => {
+            if (event.target.tagName === 'IMG') {
+              event.preventDefault();
+            }
+          });
+        </script>
+    </div>
 </body>
 
 </html>
