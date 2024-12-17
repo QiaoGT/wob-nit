@@ -4,7 +4,7 @@
 	"icon": "ti-star",
 	"sites": [{
 		"name": "谷歌",
-		"href": "https://www.google.com/",
+		"href": "https://www.google.com",
 		"desc": "全球最大的搜索引擎公司，提供精准的搜索结果.",
 		"logo": "static/icons/google.ico"
 	}, {
