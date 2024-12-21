@@ -283,20 +283,15 @@
 	"classify": "在线工具",
 	"icon": "ti-bolt",
 	"sites": [{
-		"name": "Online Reader",
-		"href": "https://cn.online-reader.com/",
-		"desc": "在线文件阅读器，支持50多种格式，包括书籍、办公文件、音视频、图片等",
-		"logo": "static/icons/online-reader.png"
-	},  {
-		"name": "Koodo Reader",
-		"href": "https://www.koodoreader.com/zh",
-		"desc": "强大开源电子书阅读器，支持多格式跨平台阅读",
-		"logo": "static/icons/koodoreader.png"
-	},  {
 		"name": "缩啦",
 		"href": "https://wobys.us.kg/",
 		"desc": "短链接生成网站",
 		"logo": "static/icons/3ii.ico"
+	},  {
+		"name": "思绪思维导图",
+		"href": "https://mind-map-9oo.pages.dev/#/",
+		"desc": "强大Web思维导图，支持在线与客户端使用",
+		"logo": "static/icons/mindmap.png"
 	},  {
 		"name": "Sanyue ImgHub",
 		"href": "https://wob-cf-imgbed.pages.dev/",
@@ -318,15 +313,20 @@
 		"desc": "多站合一，在线试听，轻松找到心仪歌曲",
 		"logo": "static/icons/unlockmusic.png"
 	},  {
+		"name": "Online Reader",
+		"href": "https://cn.online-reader.com/",
+		"desc": "在线文件阅读器，支持50多种格式，包括书籍、办公文件、音视频、图片等",
+		"logo": "static/icons/online-reader.png"
+	},  {
+		"name": "Koodo Reader",
+		"href": "https://www.koodoreader.com/zh",
+		"desc": "强大开源电子书阅读器，支持多格式跨平台阅读",
+		"logo": "static/icons/koodoreader.png"
+	},  {
 		"name": "iLoveIMG",
 		"href": "https://www.iloveimg.com/zh-cn",
 		"desc": "强大易用的在线图像编辑工具，满足各种编辑需求",
 		"logo": "static/icons/iloveimg.png"
-	},  {
-		"name": "思绪思维导图",
-		"href": "https://mind-map-9oo.pages.dev/#/",
-		"desc": "强大Web思维导图，支持在线与客户端使用",
-		"logo": "static/icons/mindmap.png"
 	},  {
 		"name": "在线思维导图",
 		"href": "https://products.aspose.app/diagram/zh-cn/mindmap",
