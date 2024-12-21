@@ -283,11 +283,6 @@
 	"classify": "在线工具",
 	"icon": "ti-bolt",
 	"sites": [{
-		"name": "缩啦",
-		"href": "https://wobys.us.kg/",
-		"desc": "短链接生成网站",
-		"logo": "static/icons/3ii.ico"
-	},  {
 		"name": "思绪思维导图",
 		"href": "https://mind-map-9oo.pages.dev/#/",
 		"desc": "强大Web思维导图，支持在线与客户端使用",
@@ -312,6 +307,11 @@
 		"href": "https://music.90svip.cn/",
 		"desc": "多站合一，在线试听，轻松找到心仪歌曲",
 		"logo": "static/icons/unlockmusic.png"
+	},  {
+		"name": "缩啦",
+		"href": "https://3ii.cc/",
+		"desc": "短链接生成网站",
+		"logo": "static/icons/3ii.ico"
 	},  {
 		"name": "Online Reader",
 		"href": "https://cn.online-reader.com/",
