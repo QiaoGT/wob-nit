@@ -282,12 +282,7 @@
 	"_id": "zxtool",
 	"classify": "在线工具",
 	"icon": "ti-bolt",
-	"sites": [{
-		"name": "思绪思维导图",
-		"href": "https://mind-map-9oo.pages.dev/#/",
-		"desc": "强大Web思维导图，支持在线与客户端使用",
-		"logo": "static/icons/mindmap.png"
-	},  {
+	"sites": [  {
 		"name": "Sanyue ImgHub",
 		"href": "https://wob-cf-imgbed.pages.dev/",
 		"desc": "图像分享平台，用户可以上传图像并生成链接分享,上传限制20MB",
@@ -312,6 +307,11 @@
 		"href": "https://3ii.cc/",
 		"desc": "短链接生成网站",
 		"logo": "static/icons/3ii.ico"
+	},  {
+		"name": "思绪思维导图",
+		"href": "https://mind-map-9oo.pages.dev/#/",
+		"desc": "强大Web思维导图，支持在线与客户端使用",
+		"logo": "static/icons/mindmap.png"
 	},  {
 		"name": "Online Reader",
 		"href": "https://cn.online-reader.com/",
